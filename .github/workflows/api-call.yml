@@ -7,7 +7,7 @@ jobs:
   run-r-script:
     runs-on: ubuntu-latest
     env:
-    # the next 3 lines setup the keyring approach to store the API key
+      # the next 3 lines setup the keyring approach to store the API key
       GITHUB_PAT: ${{ secrets.GITHUB_TOKEN }}
       R_KEEP_PKG_SOURCE: yes
       DATA_GOV_API_KEY: ${{ secrets.DATA_GOV_API_KEY }}
@@ -19,8 +19,7 @@ jobs:
       - uses: r-lib/actions/setup-r-dependencies@v2
         with:
           cache-version: 2
-          packages:
-            any::httr
+          packages: any::httr
             any::jsonlite
             any::tidyverse
 

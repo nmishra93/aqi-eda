@@ -21,14 +21,14 @@ The first pass didn't work. yml file is sorted, the `keyring` approach isn't wor
 - setting up environment variables worked.
 - now running into git commit message error, most likely a syntax error.
 
-- a stupid "-" after the final `"` mark in the last line was the reason it was failing.
-
+- a stupid "-" after the final `"` mark in the last line was the reason it was failing. Figured that out from [here](https://github.com/beatrizmilz/awesome-gha/blob/main/.github/workflows/01-monitoring-quarto-repos.yaml).
 
 API calls started working but no files were being written to the repository.
 
 - next, ran into an error where githubaction bot wasn't able to push changes.
 error message was: `Permission denied to github-actions[bot]`
 
-
 - stackoverflow saved the day. [link](https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot)
 - needed to give github action bot permission to read and write (it's read only by default) to the repository.
+
+Yay! It worked. This was a good learning experience but it was so frustrating at times. Still need to figure out how to use secrets rather than variables to do this CI/CD workflow.

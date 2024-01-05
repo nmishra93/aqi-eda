@@ -5,7 +5,7 @@ library(jsonlite)
 library(tidyverse)
 library(keyring)
 
-key <- Sys.getenv("data_gov_in_APIKEY")
+key <- key_get("DATA_GOV_IN_APIKEY")
 format <- "json"
 offset <- 100
 limit <- 62
@@ -17,7 +17,6 @@ url <-
          key, "&format=",
          format, "&offset=",
          offset, "&limit=", limit)
-url
 
 response <- GET(url)
 
@@ -45,7 +44,7 @@ data <-
 
 # generate a filename based on current datetime
 filename <-
-  paste0("data_gov_realtime_aqi_api_", format(Sys.time(), "%Y%m%d_%H%M%S"), ".csv")
+  paste0("data/data_gov_realtime_aqi_api_", format(Sys.time(), "%Y%m%d_%H%M%S"), ".csv")
 
 # write the data to a csv file
 write_csv(data, filename)

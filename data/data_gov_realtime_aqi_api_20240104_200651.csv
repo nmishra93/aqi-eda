@@ -1,0 +1,63 @@
+country,state,city,station,last_update,latitude,longitude,pollutant_id,pollutant_min,pollutant_max,pollutant_avg
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",05-01-2024 09:00:00,28.695381,77.181665,NH3,9,12,10
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",05-01-2024 09:00:00,28.695381,77.181665,SO2,12,27,19
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",05-01-2024 09:00:00,28.695381,77.181665,OZONE,4,6,5
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",05-01-2024 09:00:00,28.4706914,77.1099364,PM2.5,95,377,263
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",05-01-2024 09:00:00,28.4706914,77.1099364,PM10,135,413,295
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",05-01-2024 09:00:00,28.498571,77.264840,NH3,6,29,10
+India,Delhi,Delhi,"Dr. Karni Singh Shooting Range, Delhi - DPCC",05-01-2024 09:00:00,28.498571,77.264840,OZONE,1,26,17
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",05-01-2024 09:00:00,28.5710274,77.0719006,PM2.5,243,421,367
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",05-01-2024 09:00:00,28.5710274,77.0719006,NO2,17,38,29
+India,Delhi,Delhi,"Dwarka-Sector 8, Delhi - DPCC ",05-01-2024 09:00:00,28.5710274,77.0719006,CO,38,84,49
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",05-01-2024 09:00:00,28.5627763,77.1180053,PM2.5,NA,NA,NA
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",05-01-2024 09:00:00,28.5627763,77.1180053,PM10,NA,NA,NA
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",05-01-2024 09:00:00,28.5627763,77.1180053,OZONE,7,9,8
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",05-01-2024 09:00:00,28.6811736,77.3025234,PM2.5,318,366,346
+India,Delhi,Delhi,"IHBAS, Dilshad Garden, Delhi - CPCB",05-01-2024 09:00:00,28.6811736,77.3025234,CO,10,73,28
+India,Delhi,Delhi,"ITO, Delhi - CPCB",05-01-2024 09:00:00,28.628624,77.241060,NO2,12,33,22
+India,Delhi,Delhi,"ITO, Delhi - CPCB",05-01-2024 09:00:00,28.628624,77.241060,OZONE,16,16,16
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",05-01-2024 09:00:00,28.732820,77.170633,SO2,13,28,19
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",05-01-2024 09:00:00,28.732820,77.170633,CO,42,111,52
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",05-01-2024 09:00:00,28.732820,77.170633,OZONE,3,25,8
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",05-01-2024 09:00:00,28.580280,77.233829,PM2.5,291,420,358
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",05-01-2024 09:00:00,28.580280,77.233829,NH3,11,14,12
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",05-01-2024 09:00:00,28.580280,77.233829,SO2,18,26,22
+India,Delhi,Delhi,"Jawaharlal Nehru Stadium, Delhi - DPCC",05-01-2024 09:00:00,28.580280,77.233829,CO,42,86,54
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",05-01-2024 09:00:00,28.684678,77.076574,PM2.5,305,433,367
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",05-01-2024 09:00:00,28.684678,77.076574,CO,48,75,53
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",05-01-2024 09:00:00,28.60909,77.0325413,SO2,10,70,17
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",05-01-2024 09:00:00,28.60909,77.0325413,OZONE,9,25,19
+India,Delhi,Delhi,"Najafgarh, Delhi - DPCC",05-01-2024 09:00:00,28.570173,76.933762,NO2,10,40,27
+India,Delhi,Delhi,"Narela, Delhi - DPCC",05-01-2024 09:00:00,28.822836,77.101981,NH3,5,11,9
+India,Delhi,Delhi,"Narela, Delhi - DPCC",05-01-2024 09:00:00,28.822836,77.101981,OZONE,4,32,19
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",05-01-2024 09:00:00,28.567890,77.250515,PM10,182,430,329
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",05-01-2024 09:00:00,28.567890,77.250515,NH3,14,26,22
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",05-01-2024 09:00:00,28.567890,77.250515,CO,42,90,57
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",05-01-2024 09:00:00,28.567890,77.250515,OZONE,2,16,8
+India,Delhi,Delhi,"New Moti Bagh, Delhi - MHUA",05-01-2024 09:00:00,28.57834,77.18400,CO,44,76,54
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",05-01-2024 09:00:00,28.6573814,77.1585447,CO,53,66,53
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",05-01-2024 09:00:00,28.623763,77.287209,PM2.5,283,439,376
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",05-01-2024 09:00:00,28.623763,77.287209,SO2,1,6,3
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",05-01-2024 09:00:00,28.623763,77.287209,CO,28,78,36
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",05-01-2024 09:00:00,28.639652,77.146275,CO,31,111,63
+India,Delhi,Delhi,"Pusa, Delhi - IMD",05-01-2024 09:00:00,28.636110,77.173332,PM10,138,355,225
+India,Delhi,Delhi,"Pusa, Delhi - IMD",05-01-2024 09:00:00,28.636110,77.173332,CO,91,102,98
+India,Delhi,Delhi,"R K Puram, Delhi - DPCC",05-01-2024 09:00:00,28.563262,77.186937,CO,35,102,55
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",05-01-2024 09:00:00,28.6514781,77.1473105,NO2,34,51,43
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",05-01-2024 09:00:00,28.6514781,77.1473105,NH3,8,16,11
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",05-01-2024 09:00:00,28.5504249,77.2159377,SO2,26,28,27
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",05-01-2024 09:00:00,28.5504249,77.2159377,OZONE,6,45,20
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",05-01-2024 09:00:00,28.672342,77.315260,PM2.5,292,427,378
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",05-01-2024 09:00:00,28.672342,77.315260,SO2,5,14,11
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",05-01-2024 09:00:00,28.672342,77.315260,CO,37,96,49
+India,Gujarat,Ahmedabad,"Gyaspur, Ahmedabad - IITM",05-01-2024 09:00:00,22.977134,72.553024,PM2.5,96,311,191
+India,Gujarat,Ahmedabad,"Raikhad, Ahmedabad - IITM",05-01-2024 09:00:00,23.020509,72.579261,NO2,9,10,10
+India,Gujarat,Ahmedabad,"Raikhad, Ahmedabad - IITM",05-01-2024 09:00:00,23.020509,72.579261,NH3,5,5,5
+India,Gujarat,Ahmedabad,"Rakhial, Ahmedabad - IITM",05-01-2024 09:00:00,23.016834,72.625775,PM2.5,66,306,135
+India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",05-01-2024 09:00:00,23.041137,72.456691,PM2.5,78,319,176
+India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",05-01-2024 09:00:00,23.041137,72.456691,NO2,14,14,14
+India,Gujarat,Ahmedabad,"SAC ISRO Bopal, Ahmedabad - IITM",05-01-2024 09:00:00,23.041137,72.456691,OZONE,2,4,3
+India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",05-01-2024 09:00:00,23.023389,72.515201,SO2,4,14,6
+India,Gujarat,Ahmedabad,"SAC ISRO Satellite, Ahmedabad - IITM",05-01-2024 09:00:00,23.023389,72.515201,OZONE,2,20,9
+India,Gujarat,Ahmedabad,"SVPI Airport Hansol, Ahmedabad - IITM",05-01-2024 09:00:00,23.076793,72.627874,PM2.5,63,285,105
+India,Gujarat,Ahmedabad,"Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM",05-01-2024 09:00:00,23.043070,72.562968,OZONE,1,13,7

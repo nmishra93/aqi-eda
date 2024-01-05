@@ -7,7 +7,7 @@
 [source](https://app.cpcbccr.com/ccr/#/caaqm-dashboard-all/caaqm-landing/caaqm-data-repository)
 
 ## SETUP
-- used the keyring package to store the API key. [More details here] (https://keyring.r-lib.org/#github).
+- used the keyring package to store the API key. [More details here](https://keyring.r-lib.org/#github).
 - saved the API key as a repository secret. Used this as [source](https://docs.github.com/en/actions/security-guides/using-secrets-in-github-actions#creating-secrets-for-a-repository).
 - Performed a local run with the `R/call-api.R` script. This was to test the API call and the keyring package.
 - will test it on github actions next.

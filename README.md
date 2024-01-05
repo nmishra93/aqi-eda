@@ -16,19 +16,28 @@
 
 The first pass didn't work. yml file is sorted, the `keyring` approach isn't working.
 
-- `keyring` didn't work.
-- setting up `actions` secrets and `environment` secrets didn't work.
-- setting up environment variables worked.
-- now running into git commit message error, most likely a syntax error.
+-   `keyring` didn't work.
 
-- a stupid "-" after the final `"` mark in the last line was the reason it was failing. Figured that out from [here](https://github.com/beatrizmilz/awesome-gha/blob/main/.github/workflows/01-monitoring-quarto-repos.yaml).
+-   setting up `actions` secrets and `environment` secrets didn't work.
+
+-   setting up environment variables worked.
+
+-   now running into git commit message error, most likely a syntax error.
+
+-   a stupid "-" after the final `"` mark in the last line was the reason it was failing. Figured that out from [here](https://github.com/beatrizmilz/awesome-gha/blob/main/.github/workflows/01-monitoring-quarto-repos.yaml).
 
 API calls started working but no files were being written to the repository.
 
-- next, ran into an error where githubaction bot wasn't able to push changes.
-error message was: `Permission denied to github-actions[bot]`
+-   next, ran into an error where githubaction bot wasn't able to push changes. error message was: `Permission denied to github-actions[bot]`
 
-- stackoverflow saved the day. [link](https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot)
-- needed to give github action bot permission to read and write (it's read only by default) to the repository.
+-   stackoverflow saved the day. [link](https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot)
+
+-   needed to give github action bot permission to read and write (it's read only by default) to the repository.
 
 Yay! It worked. This was a good learning experience but it was so frustrating at times. Still need to figure out how to use secrets rather than variables to do this CI/CD workflow.
+
+
+## Second pass
+Added cron scheduler. Use this to figure out `cron` strings: [link](https://crontab.guru/).
+Will try to run it every hour for few days to see what happens.
+Tip. `*` is a special character in YAML so you have to quote the cron string for it to work.

@@ -21,7 +21,6 @@ jobs:
           cache-version: 2
           packages:
             any::httr
-            any::keyring
             any::jsonlite
             any::tidyverse
 

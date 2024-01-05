@@ -24,13 +24,14 @@ jobs:
             any::keyring
             any::jsonlite
             any::tidyverse
+
       - name: run-script
         run: Rscript R/call_api.R
 
-      -name: commit files
-      run: |
-        git config --local user.name "$GITHUB_ACTOR"
-        git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com
-        git add -A
-        git commit -m "Fetched AQI csv" || echo "No changes to commit"
-        git push origin || echo "No changes to commit"
+      - name: commit files
+        run: |
+          git config --local user.name "$GITHUB_ACTOR"
+          git config --local user.email "$GITHUB_ACTOR@users.noreply.github.com
+          git add -A
+          git commit -m "Fetched AQI csv" || echo "No changes to commit"
+          git push origin || echo "No changes to commit"

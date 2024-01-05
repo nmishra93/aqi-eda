@@ -20,3 +20,11 @@ The first pass didn't work. yml file is sorted, the `keyring` approach isn't wor
 - setting up `actions` secrets and `environment` secrets didn't work.
 - setting up environment variables worked.
 - now running into git commit message error, most likely a syntax error.
+
+- a stupid "-" after the final `"` mark in the last line was the reason it was failing.
+
+- next, ran into an error where githubaction bot wasn't able to push changes.
+error message was: `Permission denied to github-actions[bot]`
+
+- stackoverflow saved the day. [link](https://stackoverflow.com/questions/72851548/permission-denied-to-github-actionsbot)
+- needed to give github action bot permission to read and write (it's read only by default) to the repository.

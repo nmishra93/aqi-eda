@@ -13,3 +13,6 @@
 - will test it on github actions next.
 - if that works, then I will setup the cron job to run every hour.
 - The local csv was `data/data_gov_realtime_aqi_api_20240104_182755.csv`.
+
+
+The first pass didn't work. yml file is sorted, the `keyring` approach isn't working.

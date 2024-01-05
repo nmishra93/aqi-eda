@@ -5,7 +5,7 @@ library(jsonlite)
 library(tidyverse)
 library(keyring)
 
-key <- key_get("DATA_GOV_IN_APIKEY")
+key <- key_get("DATA_GOV_API_KEY")
 format <- "json"
 offset <- 100
 limit <- 62

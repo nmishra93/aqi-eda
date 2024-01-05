@@ -1,6 +1,10 @@
 on:
   workflow_dispatch:
 
+  schedule:
+  # * is a special character in YAML so you have to quote this string
+  - cron:  "15 0-23 * * *" # every hour at 15 minutes past the hour
+
 name: API Call
 
 jobs:

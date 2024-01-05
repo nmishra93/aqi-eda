@@ -12,3 +12,4 @@
 - Performed a local run with the `R/call-api.R` script. This was to test the API call and the keyring package.
 - will test it on github actions next.
 - if that works, then I will setup the cron job to run every hour.
+- The local csv was `data/data_gov_realtime_aqi_api_20240104_182755.csv`.

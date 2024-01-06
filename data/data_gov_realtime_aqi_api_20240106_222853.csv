@@ -1,0 +1,63 @@
+country,state,city,station,last_update,latitude,longitude,pollutant_id,pollutant_min,pollutant_max,pollutant_avg
+India,Chhattisgarh,Korba,"Urja Nagar, Korba - CECB",07-01-2024 03:00:00,22.348441,82.549611,PM10,53,111,81
+India,Chhattisgarh,Kunjemura,"OP Jindal School, Kunjemura - CECB",07-01-2024 03:00:00,22.126650,83.483212,NH3,1,6,2
+India,Chhattisgarh,Milupara,"Govt. Higher Secondary School, Milupara - CECB",07-01-2024 03:00:00,22.1910172,83.5197009,PM10,52,92,74
+India,Chhattisgarh,Milupara,"Govt. Higher Secondary School, Milupara - CECB",07-01-2024 03:00:00,22.1910172,83.5197009,OZONE,16,86,22
+India,Chhattisgarh,Raipur,"AIIMS, Raipur - CECB",07-01-2024 03:00:00,21.258815,81.578979,NO2,51,63,57
+India,Chhattisgarh,Raipur,"Bhatagaon New ISBT, Raipur - CECB",07-01-2024 03:00:00,21.219665,81.630094,PM10,76,131,105
+India,Chhattisgarh,Raipur,"Bhatagaon New ISBT, Raipur - CECB",07-01-2024 03:00:00,21.219665,81.630094,NO2,62,94,78
+India,Chhattisgarh,Raipur,"Bhatagaon New ISBT, Raipur - CECB",07-01-2024 03:00:00,21.219665,81.630094,CO,29,66,60
+India,Chhattisgarh,Raipur,"Bhatagaon New ISBT, Raipur - CECB",07-01-2024 03:00:00,21.219665,81.630094,OZONE,3,4,3
+India,Chhattisgarh,Raipur,"Krishak Nagar, Raipur - CECB",07-01-2024 03:00:00,21.237755,81.705301,OZONE,2,12,2
+India,Chhattisgarh,Raipur,"Siltara Phase-II, Raipur - CECB",07-01-2024 03:00:00,21.371751,81.664929,NO2,8,23,15
+India,Chhattisgarh,Tumidih,"OP Jindal Industrial Park, Tumidih - CECB",07-01-2024 03:00:00,22.06631475,83.33820077,PM2.5,NA,NA,NA
+India,Chhattisgarh,Tumidih,"OP Jindal Industrial Park, Tumidih - CECB",07-01-2024 03:00:00,22.06631475,83.33820077,PM10,NA,NA,NA
+India,Delhi,Delhi,"Anand Vihar, Delhi - DPCC",07-01-2024 03:00:00,28.647622,77.3158090,PM10,186,443,342
+India,Delhi,Delhi,"Ashok Vihar, Delhi - DPCC",07-01-2024 03:00:00,28.695381,77.181665,NO2,39,105,71
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",07-01-2024 03:00:00,28.4706914,77.1099364,PM2.5,132,357,268
+India,Delhi,Delhi,"Aya Nagar, Delhi - IMD",07-01-2024 03:00:00,28.4706914,77.1099364,CO,70,90,82
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",07-01-2024 03:00:00,28.776200,77.051074,PM10,131,463,287
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",07-01-2024 03:00:00,28.776200,77.051074,NO2,11,49,32
+India,Delhi,Delhi,"Bawana, Delhi - DPCC",07-01-2024 03:00:00,28.776200,77.051074,NH3,7,12,9
+India,Delhi,Delhi,"Burari Crossing, Delhi - IMD",07-01-2024 03:00:00,28.7256504,77.2011573,CO,97,104,100
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",07-01-2024 03:00:00,28.5512005,77.2735737,CO,12,34,26
+India,Delhi,Delhi,"CRRI Mathura Road, Delhi - IMD",07-01-2024 03:00:00,28.5512005,77.2735737,OZONE,36,46,37
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",07-01-2024 03:00:00,28.5627763,77.1180053,PM2.5,261,345,322
+India,Delhi,Delhi,"IGI Airport (T3), Delhi - IMD",07-01-2024 03:00:00,28.5627763,77.1180053,PM10,129,259,198
+India,Delhi,Delhi,"ITO, Delhi - CPCB",07-01-2024 03:00:00,28.628624,77.241060,PM10,35,202,157
+India,Delhi,Delhi,"ITO, Delhi - CPCB",07-01-2024 03:00:00,28.628624,77.241060,NO2,9,38,25
+India,Delhi,Delhi,"ITO, Delhi - CPCB",07-01-2024 03:00:00,28.628624,77.241060,CO,20,102,74
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",07-01-2024 03:00:00,28.732820,77.170633,PM2.5,301,500,384
+India,Delhi,Delhi,"Jahangirpuri, Delhi - DPCC",07-01-2024 03:00:00,28.732820,77.170633,NH3,8,10,8
+India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",07-01-2024 03:00:00,28.5918245,77.2273074,PM2.5,217,356,321
+India,Delhi,Delhi,"Lodhi Road, Delhi - IMD",07-01-2024 03:00:00,28.5918245,77.2273074,OZONE,13,41,15
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",07-01-2024 03:00:00,28.636429,77.201067,PM2.5,301,404,352
+India,Delhi,Delhi,"Mandir Marg, Delhi - DPCC",07-01-2024 03:00:00,28.636429,77.201067,NH3,20,23,21
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",07-01-2024 03:00:00,28.684678,77.076574,PM2.5,254,453,361
+India,Delhi,Delhi,"Mundka, Delhi - DPCC",07-01-2024 03:00:00,28.684678,77.076574,NO2,25,80,50
+India,Delhi,Delhi,"NSIT Dwarka, Delhi - CPCB",07-01-2024 03:00:00,28.60909,77.0325413,NH3,6,11,9
+India,Delhi,Delhi,"Narela, Delhi - DPCC",07-01-2024 03:00:00,28.822836,77.101981,NH3,6,12,10
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",07-01-2024 03:00:00,28.567890,77.250515,PM10,150,424,301
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",07-01-2024 03:00:00,28.567890,77.250515,NH3,23,35,28
+India,Delhi,Delhi,"Nehru Nagar, Delhi - DPCC",07-01-2024 03:00:00,28.567890,77.250515,CO,50,100,69
+India,Delhi,Delhi,"North Campus, DU, Delhi - IMD",07-01-2024 03:00:00,28.6573814,77.1585447,PM2.5,311,404,355
+India,Delhi,Delhi,"Okhla Phase-2, Delhi - DPCC",07-01-2024 03:00:00,28.530785,77.271255,NO2,57,125,87
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",07-01-2024 03:00:00,28.623763,77.287209,PM10,178,414,340
+India,Delhi,Delhi,"Patparganj, Delhi - DPCC",07-01-2024 03:00:00,28.623763,77.287209,NH3,7,11,9
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",07-01-2024 03:00:00,28.674045,77.131023,SO2,1,8,3
+India,Delhi,Delhi,"Punjabi Bagh, Delhi - DPCC",07-01-2024 03:00:00,28.674045,77.131023,OZONE,7,10,8
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",07-01-2024 03:00:00,28.639652,77.146275,PM2.5,272,401,349
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",07-01-2024 03:00:00,28.639652,77.146275,SO2,5,15,8
+India,Delhi,Delhi,"Pusa, Delhi - DPCC",07-01-2024 03:00:00,28.639652,77.146275,CO,36,104,92
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",07-01-2024 03:00:00,28.732528,77.119920,PM2.5,275,451,370
+India,Delhi,Delhi,"Rohini, Delhi - DPCC",07-01-2024 03:00:00,28.732528,77.119920,CO,29,105,75
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",07-01-2024 03:00:00,28.6514781,77.1473105,PM2.5,197,436,343
+India,Delhi,Delhi,"Shadipur, Delhi - CPCB",07-01-2024 03:00:00,28.6514781,77.1473105,CO,48,106,82
+India,Delhi,Delhi,"Sirifort, Delhi - CPCB",07-01-2024 03:00:00,28.5504249,77.2159377,PM2.5,306,395,352
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",07-01-2024 03:00:00,28.710508,77.249485,CO,57,113,97
+India,Delhi,Delhi,"Sonia Vihar, Delhi - DPCC",07-01-2024 03:00:00,28.710508,77.249485,OZONE,3,43,7
+India,Delhi,Delhi,"Sri Aurobindo Marg, Delhi - DPCC",07-01-2024 03:00:00,28.531346,77.190156,CO,29,65,58
+India,Delhi,Delhi,"Vivek Vihar, Delhi - DPCC",07-01-2024 03:00:00,28.672342,77.315260,OZONE,2,7,3
+India,Gujarat,Ahmedabad,"Chandkheda, Ahmedabad - IITM",07-01-2024 03:00:00,23.107969,72.574648,PM10,48,155,85
+India,Gujarat,Ahmedabad,"Chandkheda, Ahmedabad - IITM",07-01-2024 03:00:00,23.107969,72.574648,NO2,5,7,6
+India,Gujarat,Ahmedabad,"Raikhad, Ahmedabad - IITM",07-01-2024 03:00:00,23.020509,72.579261,NH3,5,5,5

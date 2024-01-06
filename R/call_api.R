@@ -7,16 +7,16 @@ library(tidyverse)
 
 key <- Sys.getenv("DATA_GOV_API_KEY")
 format <- "json"
-offset <- 100
-limit <- 62
+limit <- "all"
 base_url <- "https://api.data.gov.in/resource/3b01bcb8-0b14-4abf-b6f2-c1bfd384ba69"
 
 # create the url based on set parameters
 url <-
-  paste0(base_url, "?api-key=",
-         key, "&format=",
-         format, "&offset=",
-         offset, "&limit=", limit)
+  paste0(
+    base_url, "?api-key=",
+    key, "&format=",
+    format, "&limit=", limit
+  )
 
 response <- GET(url)
 

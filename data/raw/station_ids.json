@@ -1,0 +1,1773 @@
+{
+  "status": "success",
+  "dropdown": {
+    "cities": {
+      "Haryana": [
+        { "label": "Ambala", "value": "Ambala" },
+        { "label": "Bahadurgarh", "value": "Bahadurgarh" },
+        { "label": "Ballabgarh", "value": "Ballabgarh" },
+        { "label": "Bhiwani", "value": "Bhiwani" },
+        { "label": "Charkhi Dadri", "value": "Charkhi Dadri" },
+        { "label": "Dharuhera", "value": "Dharuhera" },
+        { "label": "Faridabad", "value": "Faridabad" },
+        { "label": "Fatehabad", "value": "Fatehabad" },
+        { "label": "Gurugram", "value": "Gurugram" },
+        { "label": "Hisar", "value": "Hisar" },
+        { "label": "Jind", "value": "Jind" },
+        { "label": "Kaithal", "value": "Kaithal" },
+        { "label": "Karnal", "value": "Karnal" },
+        { "label": "Kurukshetra ", "value": "Kurukshetra " },
+        { "label": "Mandikhera", "value": "Mandikhera" },
+        { "label": "Manesar", "value": "Manesar" },
+        { "label": "Narnaul", "value": "Narnaul" },
+        { "label": "Palwal ", "value": "Palwal " },
+        { "label": "Panchkula", "value": "Panchkula" },
+        { "label": "Panipat", "value": "Panipat" },
+        { "label": "Rohtak", "value": "Rohtak" },
+        { "label": "Sirsa", "value": "Sirsa" },
+        { "label": "Sonipat", "value": "Sonipat" },
+        { "label": "Yamuna Nagar", "value": "Yamuna Nagar" }
+      ],
+      "Madhya Pradesh": [
+        { "label": "Bhopal", "value": "Bhopal" },
+        { "label": "Damoh", "value": "Damoh" },
+        { "label": "Dewas", "value": "Dewas" },
+        { "label": "Gwalior", "value": "Gwalior" },
+        { "label": "Indore", "value": "Indore" },
+        { "label": "Jabalpur", "value": "Jabalpur" },
+        { "label": "Katni", "value": "Katni" },
+        { "label": "Maihar", "value": "Maihar" },
+        { "label": "Mandideep", "value": "Mandideep" },
+        { "label": "Pithampur", "value": "Pithampur" },
+        { "label": "Ratlam", "value": "Ratlam" },
+        { "label": "Sagar", "value": "Sagar" },
+        { "label": "Satna", "value": "Satna" },
+        { "label": "Singrauli", "value": "Singrauli" },
+        { "label": "Ujjain", "value": "Ujjain" }
+      ],
+      "Maharashtra": [
+        { "label": "Ahmednagar", "value": "Ahmednagar" },
+        { "label": "Akola", "value": "Akola" },
+        { "label": "Amravati", "value": "Amravati" },
+        { "label": "Aurangabad", "value": "Aurangabad" },
+        { "label": "Badlapur", "value": "Badlapur" },
+        { "label": "Belapur", "value": "Belapur" },
+        { "label": "Bhiwandi", "value": "Bhiwandi" },
+        { "label": "Boisar", "value": "Boisar" },
+        { "label": "Chandrapur", "value": "Chandrapur" },
+        { "label": "Dhule", "value": "Dhule" },
+        { "label": "Jalgaon", "value": "Jalgaon" },
+        { "label": "Jalna", "value": "Jalna" },
+        { "label": "Kalyan", "value": "Kalyan" },
+        { "label": "Kolhapur", "value": "Kolhapur" },
+        { "label": "Latur", "value": "Latur" },
+        { "label": "Mahad", "value": "Mahad" },
+        { "label": "Malegaon", "value": "Malegaon" },
+        { "label": "Mira-Bhayandar", "value": "Mira-Bhayandar" },
+        { "label": "Mumbai", "value": "Mumbai" },
+        { "label": "Nagpur", "value": "Nagpur" },
+        { "label": "Nanded", "value": "Nanded" },
+        { "label": "Nashik", "value": "Nashik" },
+        { "label": "Navi Mumbai", "value": "Navi Mumbai" },
+        { "label": "Parbhani", "value": "Parbhani" },
+        { "label": "Pimpri-Chinchwad", "value": "Pimpri-Chinchwad" },
+        { "label": "Pune", "value": "Pune" },
+        { "label": "Sangli", "value": "Sangli" },
+        { "label": "Solapur", "value": "Solapur" },
+        { "label": "Thane", "value": "Thane" },
+        { "label": "Ulhasnagar", "value": "Ulhasnagar" },
+        { "label": "Virar", "value": "Virar" }
+      ],
+      "Delhi": [{ "label": "Delhi", "value": "Delhi" }],
+      "Telangana": [{ "label": "Hyderabad", "value": "Hyderabad" }],
+      "Karnataka": [
+        { "label": "Bagalkot", "value": "Bagalkot" },
+        { "label": "Belgaum", "value": "Belgaum" },
+        { "label": "Bengaluru", "value": "Bengaluru" },
+        { "label": "Bidar", "value": "Bidar" },
+        { "label": "Chamarajanagar", "value": "Chamarajanagar" },
+        { "label": "Chikkaballapur", "value": "Chikkaballapur" },
+        { "label": "Chikkamagaluru", "value": "Chikkamagaluru" },
+        { "label": "Davanagere", "value": "Davanagere" },
+        { "label": "Dharwad", "value": "Dharwad" },
+        { "label": "Gadag", "value": "Gadag" },
+        { "label": "Hassan", "value": "Hassan" },
+        { "label": "Haveri", "value": "Haveri" },
+        { "label": "Hubballi", "value": "Hubballi" },
+        { "label": "Kalaburagi", "value": "Kalaburagi" },
+        { "label": "Karwar", "value": "Karwar" },
+        { "label": "Kolar", "value": "Kolar" },
+        { "label": "Koppal", "value": "Koppal" },
+        { "label": "Madikeri", "value": "Madikeri" },
+        { "label": "Mangalore", "value": "Mangalore" },
+        { "label": "Mysuru", "value": "Mysuru" },
+        { "label": "Raichur", "value": "Raichur" },
+        { "label": "Ramanagara", "value": "Ramanagara" },
+        { "label": "Shivamogga", "value": "Shivamogga" },
+        { "label": "Tumakuru", "value": "Tumakuru" },
+        { "label": "Udupi", "value": "Udupi" },
+        { "label": "Vijayapura", "value": "Vijayapura" },
+        { "label": "Yadgir", "value": "Yadgir" }
+      ],
+      "Bihar": [
+        { "label": "Araria", "value": "Araria" },
+        { "label": "Arrah", "value": "Arrah" },
+        { "label": "Aurangabad", "value": "Aurangabad" },
+        { "label": "Begusarai", "value": "Begusarai" },
+        { "label": "Bettiah", "value": "Bettiah" },
+        { "label": "Bhagalpur", "value": "Bhagalpur" },
+        { "label": "Bihar Sharif", "value": "Bihar Sharif" },
+        { "label": "Buxar", "value": "Buxar" },
+        { "label": "Chhapra", "value": "Chhapra" },
+        { "label": "Darbhanga", "value": "Darbhanga" },
+        { "label": "Gaya", "value": "Gaya" },
+        { "label": "Hajipur", "value": "Hajipur" },
+        { "label": "Katihar", "value": "Katihar" },
+        { "label": "Kishanganj", "value": "Kishanganj" },
+        { "label": "Manguraha", "value": "Manguraha" },
+        { "label": "Motihari", "value": "Motihari" },
+        { "label": "Munger", "value": "Munger" },
+        { "label": "Muzaffarpur", "value": "Muzaffarpur" },
+        { "label": "Patna", "value": "Patna" },
+        { "label": "Purnia", "value": "Purnia" },
+        { "label": "Rajgir", "value": "Rajgir" },
+        { "label": "Saharsa", "value": "Saharsa" },
+        { "label": "Samastipur", "value": "Samastipur" },
+        { "label": "Sasaram", "value": "Sasaram" },
+        { "label": "Siwan", "value": "Siwan" }
+      ],
+      "Himachal Pradesh": [{ "label": "Baddi", "value": "Baddi" }],
+      "Uttar Pradesh": [
+        { "label": "Agra", "value": "Agra" },
+        { "label": "Baghpat", "value": "Baghpat" },
+        { "label": "Bareilly", "value": "Bareilly" },
+        { "label": "Bulandshahr", "value": "Bulandshahr" },
+        { "label": "Firozabad", "value": "Firozabad" },
+        { "label": "Ghaziabad", "value": "Ghaziabad" },
+        { "label": "Gorakhpur", "value": "Gorakhpur" },
+        { "label": "Greater Noida", "value": "Greater Noida" },
+        { "label": "Hapur", "value": "Hapur" },
+        { "label": "Jhansi", "value": "Jhansi" },
+        { "label": "Kanpur", "value": "Kanpur" },
+        { "label": "Khurja", "value": "Khurja" },
+        { "label": "Lucknow", "value": "Lucknow" },
+        { "label": "Meerut", "value": "Meerut" },
+        { "label": "Moradabad", "value": "Moradabad" },
+        { "label": "Muzaffarnagar", "value": "Muzaffarnagar" },
+        { "label": "Noida", "value": "Noida" },
+        { "label": "Prayagraj", "value": "Prayagraj" },
+        { "label": "Varanasi", "value": "Varanasi" },
+        { "label": "Vrindavan", "value": "Vrindavan" }
+      ],
+      "Tamil Nadu": [
+        { "label": "Ariyalur", "value": "Ariyalur" },
+        { "label": "Chengalpattu", "value": "Chengalpattu" },
+        { "label": "Chennai", "value": "Chennai" },
+        { "label": "Coimbatore", "value": "Coimbatore" },
+        { "label": "Cuddalore", "value": "Cuddalore" },
+        { "label": "Dindigul", "value": "Dindigul" },
+        { "label": "Gummidipoondi", "value": "Gummidipoondi" },
+        { "label": "Hosur", "value": "Hosur" },
+        { "label": "Kanchipuram", "value": "Kanchipuram" },
+        { "label": "Ooty", "value": "Ooty" },
+        { "label": "Palkalaiperur", "value": "Palkalaiperur" },
+        { "label": "Ramanathapuram", "value": "Ramanathapuram" },
+        { "label": "Salem", "value": "Salem" },
+        { "label": "Thoothukudi", "value": "Thoothukudi" },
+        { "label": "Tiruchirappalli", "value": "Tiruchirappalli" },
+        { "label": "Tirupur", "value": "Tirupur" },
+        { "label": "Vellore", "value": "Vellore" },
+        { "label": "Virudhunagar", "value": "Virudhunagar" }
+      ],
+      "Chhattisgarh": [
+        { "label": "Bhilai", "value": "Bhilai" },
+        { "label": "Bilaspur", "value": "Bilaspur" },
+        { "label": "Chhal", "value": "Chhal" },
+        { "label": "Korba", "value": "Korba" },
+        { "label": "Kunjemura", "value": "Kunjemura" },
+        { "label": "Milupara", "value": "Milupara" },
+        { "label": "Raipur", "value": "Raipur" },
+        { "label": "Tumidih", "value": "Tumidih" }
+      ],
+      "Gujarat": [
+        { "label": "Ahmedabad", "value": "Ahmedabad" },
+        { "label": "Ankleshwar", "value": "Ankleshwar" },
+        { "label": "Gandhinagar", "value": "Gandhinagar" },
+        { "label": "Nandesari", "value": "Nandesari" },
+        { "label": "Surat", "value": "Surat" },
+        { "label": "Vapi", "value": "Vapi" },
+        { "label": "Vatva", "value": "Vatva" }
+      ],
+      "Rajasthan": [
+        { "label": "Ajmer", "value": "Ajmer" },
+        { "label": "Alwar", "value": "Alwar" },
+        { "label": "Banswara", "value": "Banswara" },
+        { "label": "Baran", "value": "Baran" },
+        { "label": "Barmer", "value": "Barmer" },
+        { "label": "Bharatpur", "value": "Bharatpur" },
+        { "label": "Bhilwara", "value": "Bhilwara" },
+        { "label": "Bhiwadi", "value": "Bhiwadi" },
+        { "label": "Bikaner", "value": "Bikaner" },
+        { "label": "Bundi", "value": "Bundi" },
+        { "label": "Chittorgarh", "value": "Chittorgarh" },
+        { "label": "Churu", "value": "Churu" },
+        { "label": "Dausa", "value": "Dausa" },
+        { "label": "Dholpur", "value": "Dholpur" },
+        { "label": "Dungarpur", "value": "Dungarpur" },
+        { "label": "Hanumangarh", "value": "Hanumangarh" },
+        { "label": "Jaipur", "value": "Jaipur" },
+        { "label": "Jaisalmer", "value": "Jaisalmer" },
+        { "label": "Jalore", "value": "Jalore" },
+        { "label": "Jhalawar", "value": "Jhalawar" },
+        { "label": "Jhunjhunu", "value": "Jhunjhunu" },
+        { "label": "Jodhpur", "value": "Jodhpur" },
+        { "label": "Karauli", "value": "Karauli" },
+        { "label": "Kota", "value": "Kota" },
+        { "label": "Nagaur", "value": "Nagaur" },
+        { "label": "Pali", "value": "Pali" },
+        { "label": "Pratapgarh", "value": "Pratapgarh" },
+        { "label": "Rajsamand", "value": "Rajsamand" },
+        { "label": "Sawai Madhopur", "value": "Sawai Madhopur" },
+        { "label": "Sikar", "value": "Sikar" },
+        { "label": "Sirohi", "value": "Sirohi" },
+        { "label": "Sri Ganganagar", "value": "Sri Ganganagar" },
+        { "label": "Tonk", "value": "Tonk" },
+        { "label": "Udaipur", "value": "Udaipur" }
+      ],
+      "Kerala": [
+        { "label": "Eloor", "value": "Eloor" },
+        { "label": "Ernakulam", "value": "Ernakulam" },
+        { "label": "Kannur", "value": "Kannur" },
+        { "label": "Kochi", "value": "Kochi" },
+        { "label": "Kollam", "value": "Kollam" },
+        { "label": "Kozhikode", "value": "Kozhikode" },
+        { "label": "Thiruvananthapuram", "value": "Thiruvananthapuram" },
+        { "label": "Thrissur", "value": "Thrissur" }
+      ],
+      "Assam": [
+        { "label": "Byrnihat", "value": "Byrnihat" },
+        { "label": "Guwahati", "value": "Guwahati" },
+        { "label": "Nagaon", "value": "Nagaon" },
+        { "label": "Nalbari", "value": "Nalbari" },
+        { "label": "Silchar", "value": "Silchar" },
+        { "label": "Sivasagar", "value": "Sivasagar" }
+      ],
+      "Puducherry": [{ "label": "Puducherry", "value": "Puducherry" }],
+      "Punjab": [
+        { "label": "Amritsar", "value": "Amritsar" },
+        { "label": "Bathinda", "value": "Bathinda" },
+        { "label": "Jalandhar", "value": "Jalandhar" },
+        { "label": "Khanna", "value": "Khanna" },
+        { "label": "Ludhiana", "value": "Ludhiana" },
+        { "label": "Mandi Gobindgarh", "value": "Mandi Gobindgarh" },
+        { "label": "Patiala", "value": "Patiala" },
+        { "label": "Rupnagar", "value": "Rupnagar" }
+      ],
+      "Mizoram": [{ "label": "Aizawl", "value": "Aizawl" }],
+      "West Bengal": [
+        { "label": "Asansol", "value": "Asansol" },
+        { "label": "Barrackpore", "value": "Barrackpore" },
+        { "label": "Durgapur", "value": "Durgapur" },
+        { "label": "Haldia", "value": "Haldia" },
+        { "label": "Howrah", "value": "Howrah" },
+        { "label": "Kolkata", "value": "Kolkata" },
+        { "label": "Siliguri", "value": "Siliguri" }
+      ],
+      "Andhra Pradesh": [
+        { "label": "Amaravati", "value": "Amaravati" },
+        { "label": "Anantapur", "value": "Anantapur" },
+        { "label": "Chittoor", "value": "Chittoor" },
+        { "label": "Kadapa", "value": "Kadapa" },
+        { "label": "Rajamahendravaram", "value": "Rajamahendravaram" },
+        { "label": "Tirupati", "value": "Tirupati" },
+        { "label": "Vijayawada", "value": "Vijayawada" },
+        { "label": "Visakhapatnam", "value": "Visakhapatnam" }
+      ],
+      "Odisha": [
+        { "label": "Angul", "value": "Angul" },
+        { "label": "Balasore", "value": "Balasore" },
+        { "label": "Barbil", "value": "Barbil" },
+        { "label": "Baripada", "value": "Baripada" },
+        { "label": "Bhubaneswar", "value": "Bhubaneswar" },
+        { "label": "Bileipada", "value": "Bileipada" },
+        { "label": "Brajrajnagar", "value": "Brajrajnagar" },
+        { "label": "Byasanagar", "value": "Byasanagar" },
+        { "label": "Cuttack", "value": "Cuttack" },
+        { "label": "Keonjhar", "value": "Keonjhar" },
+        { "label": "Nayagarh", "value": "Nayagarh" },
+        { "label": "Rairangpur", "value": "Rairangpur" },
+        { "label": "Rourkela", "value": "Rourkela" },
+        { "label": "Suakati", "value": "Suakati" },
+        { "label": "Talcher", "value": "Talcher" },
+        { "label": "Tensa", "value": "Tensa" }
+      ],
+      "Jharkhand": [
+        { "label": "Dhanbad", "value": "Dhanbad" },
+        { "label": "Jorapokhar", "value": "Jorapokhar" },
+        { "label": "Pathardih", "value": "Pathardih" }
+      ],
+      "Tripura": [{ "label": "Agartala", "value": "Agartala" }],
+      "Meghalaya": [{ "label": "Shillong", "value": "Shillong" }],
+      "Chandigarh": [{ "label": "Chandigarh", "value": "Chandigarh" }],
+      "Jammu and Kashmir": [{ "label": "Srinagar", "value": "Srinagar" }],
+      "Uttarakhand": [
+        { "label": "Dehradun", "value": "Dehradun" },
+        { "label": "Kashipur", "value": "Kashipur" },
+        { "label": "Rishikesh", "value": "Rishikesh" }
+      ],
+      "Sikkim": [{ "label": "Gangtok", "value": "Gangtok" }],
+      "Arunachal Pradesh": [{ "label": "Naharlagun", "value": "Naharlagun" }],
+      "Manipur": [{ "label": "Imphal", "value": "Imphal" }],
+      "Nagaland": [{ "label": "Kohima", "value": "Kohima" }]
+    },
+    "states": [
+      { "label": "Andhra Pradesh", "value": "Andhra Pradesh" },
+      { "label": "Arunachal Pradesh", "value": "Arunachal Pradesh" },
+      { "label": "Assam", "value": "Assam" },
+      { "label": "Bihar", "value": "Bihar" },
+      { "label": "Chandigarh", "value": "Chandigarh" },
+      { "label": "Chhattisgarh", "value": "Chhattisgarh" },
+      { "label": "Delhi", "value": "Delhi" },
+      { "label": "Gujarat", "value": "Gujarat" },
+      { "label": "Haryana", "value": "Haryana" },
+      { "label": "Himachal Pradesh", "value": "Himachal Pradesh" },
+      { "label": "Jammu and Kashmir", "value": "Jammu and Kashmir" },
+      { "label": "Jharkhand", "value": "Jharkhand" },
+      { "label": "Karnataka", "value": "Karnataka" },
+      { "label": "Kerala", "value": "Kerala" },
+      { "label": "Madhya Pradesh", "value": "Madhya Pradesh" },
+      { "label": "Maharashtra", "value": "Maharashtra" },
+      { "label": "Manipur", "value": "Manipur" },
+      { "label": "Meghalaya", "value": "Meghalaya" },
+      { "label": "Mizoram", "value": "Mizoram" },
+      { "label": "Nagaland", "value": "Nagaland" },
+      { "label": "Odisha", "value": "Odisha" },
+      { "label": "Puducherry", "value": "Puducherry" },
+      { "label": "Punjab", "value": "Punjab" },
+      { "label": "Rajasthan", "value": "Rajasthan" },
+      { "label": "Sikkim", "value": "Sikkim" },
+      { "label": "Tamil Nadu", "value": "Tamil Nadu" },
+      { "label": "Telangana", "value": "Telangana" },
+      { "label": "Tripura", "value": "Tripura" },
+      { "label": "Uttar Pradesh", "value": "Uttar Pradesh" },
+      { "label": "Uttarakhand", "value": "Uttarakhand" },
+      { "label": "West Bengal", "value": "West Bengal" }
+    ],
+    "stations": {
+      "Palwal ": [
+        { "value": "site_5050", "label": "Shyam Nagar, Palwal - HSPCB" }
+      ],
+      "Pithampur": [
+        {
+          "value": "site_1402",
+          "label": "Sector-2 Industrial Area, Pithampur - MPPCB"
+        }
+      ],
+      "Aurangabad": [
+        { "value": "site_198", "label": "More Chowk Waluj, Aurangabad - MPCB" },
+        {
+          "value": "site_5788",
+          "label": "MIDC Chilkalthana, Aurangabad - MPCB"
+        },
+        { "value": "site_5544", "label": "Gurdeo Nagar, Aurangabad - BSPCB" },
+        { "value": "site_5789", "label": "Rachnakar Colony, Aurangabad - MPCB" }
+      ],
+      "Delhi": [
+        { "value": "site_117", "label": "ITO, Delhi - CPCB" },
+        { "value": "site_124", "label": "R K Puram, Delhi - DPCC" },
+        {
+          "value": "site_1421",
+          "label": "Dr. Karni Singh Shooting Range, Delhi - DPCC"
+        },
+        { "value": "site_1426", "label": "Narela, Delhi - DPCC" },
+        { "value": "site_1560", "label": "Bawana, Delhi - DPCC" },
+        { "value": "site_5024", "label": "Alipur, Delhi - DPCC" },
+        { "value": "site_105", "label": "North Campus, DU, Delhi - IMD" },
+        { "value": "site_125", "label": "Punjabi Bagh, Delhi - DPCC" },
+        { "value": "site_1427", "label": "Najafgarh, Delhi - DPCC" },
+        { "value": "site_106", "label": "IGI Airport (T3), Delhi - IMD" },
+        { "value": "site_1561", "label": "Mundka, Delhi - DPCC" },
+        { "value": "site_1434", "label": "Wazirpur, Delhi - DPCC" },
+        { "value": "site_1422", "label": "Dwarka-Sector 8, Delhi - DPCC " },
+        { "value": "site_118", "label": "DTU, Delhi - CPCB" },
+        { "value": "site_113", "label": "Shadipur, Delhi - CPCB" },
+        { "value": "site_1562", "label": "Sri Aurobindo Marg, Delhi - DPCC" },
+        { "value": "site_1435", "label": "Vivek Vihar, Delhi - DPCC" },
+        { "value": "site_1430", "label": "Rohini, Delhi - DPCC" },
+        { "value": "site_1423", "label": "Jahangirpuri, Delhi - DPCC" },
+        { "value": "site_119", "label": "Sirifort, Delhi - CPCB" },
+        { "value": "site_1428", "label": "Okhla Phase-2, Delhi - DPCC" },
+        { "value": "site_5393", "label": "Chandni Chowk, Delhi - IITM" },
+        { "value": "site_107", "label": "Pusa, Delhi - IMD" },
+        { "value": "site_114", "label": "IHBAS, Dilshad Garden, Delhi - CPCB" },
+        { "value": "site_5395", "label": "Lodhi Road, Delhi - IITM" },
+        { "value": "site_1432", "label": "Sonia Vihar, Delhi - DPCC" },
+        { "value": "site_104", "label": "Burari Crossing, Delhi - IMD" },
+        {
+          "value": "site_1425",
+          "label": "Major Dhyan Chand National Stadium, Delhi - DPCC"
+        },
+        { "value": "site_109", "label": "Lodhi Road, Delhi - IMD" },
+        { "value": "site_301", "label": "Anand Vihar, Delhi - DPCC" },
+        { "value": "site_1420", "label": "Ashok Vihar, Delhi - DPCC" },
+        { "value": "site_5852", "label": "New Moti Bagh, Delhi - MHUA" },
+        { "value": "site_122", "label": "Mandir Marg, Delhi - DPCC" },
+        { "value": "site_103", "label": "CRRI Mathura Road, Delhi - IMD" },
+        { "value": "site_108", "label": "Aya Nagar, Delhi - IMD" },
+        {
+          "value": "site_1424",
+          "label": "Jawaharlal Nehru Stadium, Delhi - DPCC"
+        },
+        { "value": "site_1429", "label": "Nehru Nagar, Delhi - DPCC" },
+        { "value": "site_1431", "label": "Patparganj, Delhi - DPCC" },
+        { "value": "site_115", "label": "NSIT Dwarka, Delhi - CPCB" },
+        { "value": "site_1563", "label": "Pusa, Delhi - DPCC" }
+      ],
+      "Hyderabad": [
+        { "value": "site_294", "label": "Sanathnagar, Hyderabad - TSPCB" },
+        { "value": "site_5598", "label": "Somajiguda, Hyderabad - TSPCB" },
+        { "value": "site_275", "label": "IDA Pashamylaram, Hyderabad - TSPCB" },
+        {
+          "value": "site_251",
+          "label": "ICRISAT Patancheru, Hyderabad - TSPCB"
+        },
+        {
+          "value": "site_5599",
+          "label": "Kompally Municipal Office, Hyderabad - TSPCB"
+        },
+        {
+          "value": "site_5602",
+          "label": "Ramachandrapuram, Hyderabad - TSPCB"
+        },
+        {
+          "value": "site_199",
+          "label": "Bollaram Industrial Area, Hyderabad - TSPCB"
+        },
+        { "value": "site_5595", "label": "New Malakpet, Hyderabad - TSPCB" },
+        {
+          "value": "site_5600",
+          "label": "Nacharam_TSIIC IALA, Hyderabad - TSPCB"
+        },
+        { "value": "site_5597", "label": "IITH Kandi, Hyderabad - TSPCB" },
+        {
+          "value": "site_262",
+          "label": "Central University, Hyderabad - TSPCB"
+        },
+        { "value": "site_298", "label": "Zoo Park, Hyderabad - TSPCB" },
+        { "value": "site_5604", "label": "Kokapet, Hyderabad - TSPCB" },
+        { "value": "site_5596", "label": "ECIL Kapra, Hyderabad - TSPCB" }
+      ],
+      "Solapur": [
+        { "value": "site_302", "label": "Solapur, Solapur - MPCB" },
+        {
+          "value": "site_5776",
+          "label": "Ratandeep Housing Society, Solapur - MPCB"
+        },
+        { "value": "site_5777", "label": "Dnyaneshwar Nagar, Solapur - MPCB" }
+      ],
+      "Bengaluru": [
+        { "value": "site_1558", "label": "Silk Board, Bengaluru - KSPCB" },
+        { "value": "site_1553", "label": "Bapuji Nagar, Bengaluru - KSPCB" },
+        { "value": "site_162", "label": "BTM Layout, Bengaluru - CPCB" },
+        { "value": "site_1554", "label": "Hebbal, Bengaluru - KSPCB" },
+        { "value": "site_163", "label": "Peenya, Bengaluru - CPCB" },
+        {
+          "value": "site_1555",
+          "label": "Hombegowda Nagar, Bengaluru - KSPCB"
+        },
+        {
+          "value": "site_164",
+          "label": "BWSSB Kadabesanahalli, Bengaluru - CPCB"
+        },
+        { "value": "site_166", "label": "Sanegurava Halli, Bengaluru - KSPCB" },
+        { "value": "site_5681", "label": "Kasturi Nagar, Bengaluru - KSPCB" },
+        {
+          "value": "site_5686",
+          "label": "Shivapura_Peenya, Bengaluru - KSPCB"
+        },
+        {
+          "value": "site_1556",
+          "label": "Jayanagar 5th Block, Bengaluru - KSPCB"
+        },
+        {
+          "value": "site_165",
+          "label": "City Railway Station, Bengaluru - KSPCB"
+        },
+        {
+          "value": "site_5678",
+          "label": "RVCE-Mailasandra, Bengaluru - KSPCB"
+        },
+        { "value": "site_5729", "label": "Jigani, Bengaluru - KSPCB" }
+      ],
+      "Mumbai": [
+        { "value": "site_5396", "label": "Deonar, Mumbai - IITM" },
+        { "value": "site_5113", "label": "Borivali East, Mumbai - MPCB" },
+        {
+          "value": "site_5810",
+          "label": "Bandra Kurla Complex, Mumbai - MPCB"
+        },
+        { "value": "site_5961", "label": "Shivaji Nagar, Mumbai - BMC" },
+        { "value": "site_5120", "label": "Colaba, Mumbai - MPCB" },
+        { "value": "site_5106", "label": "Vile Parle West, Mumbai - MPCB" },
+        {
+          "value": "site_5397",
+          "label": "Khindipada-Bhandup West, Mumbai - IITM"
+        },
+        { "value": "site_5400", "label": "Borivali East, Mumbai - IITM" },
+        { "value": "site_5412", "label": "Kandivali East, Mumbai - MPCB" },
+        { "value": "site_168", "label": "Bandra, Mumbai - MPCB" },
+        { "value": "site_5811", "label": "Chembur, Mumbai - MPCB" },
+        {
+          "value": "site_5392",
+          "label": "Bandra Kurla Complex, Mumbai - IITM"
+        },
+        { "value": "site_5962", "label": "Kandivali West, Mumbai - BMC" },
+        {
+          "value": "site_5107",
+          "label": "Chhatrapati Shivaji Intl. Airport (T2), Mumbai - MPCB"
+        },
+        { "value": "site_5119", "label": "Sion, Mumbai - MPCB" },
+        { "value": "site_5102", "label": "Vasai West, Mumbai - MPCB" },
+        { "value": "site_5413", "label": "Mulund West, Mumbai - MPCB" },
+        { "value": "site_5398", "label": "Navy Nagar-Colaba, Mumbai - IITM" },
+        { "value": "site_5963", "label": "Sewri, Mumbai - BMC" },
+        { "value": "site_5115", "label": "Worli, Mumbai - MPCB" },
+        {
+          "value": "site_5403",
+          "label": "Siddharth Nagar-Worli, Mumbai - IITM"
+        },
+        {
+          "value": "site_5807",
+          "label": "Mindspace-Malad West, Mumbai - MPCB"
+        },
+        { "value": "site_5960", "label": "Byculla, Mumbai - BMC" },
+        {
+          "value": "site_5814",
+          "label": "Kherwadi_Bandra East, Mumbai - MPCB"
+        },
+        { "value": "site_5112", "label": "Powai, Mumbai - MPCB" },
+        {
+          "value": "site_5399",
+          "label": "Chakala-Andheri East, Mumbai - IITM"
+        },
+        { "value": "site_5394", "label": "Mazgaon, Mumbai - IITM" },
+        { "value": "site_5402", "label": "Malad West, Mumbai - IITM" },
+        { "value": "site_5964", "label": "Ghatkopar, Mumbai - BMC" },
+        { "value": "site_5104", "label": "Kurla, Mumbai - MPCB" }
+      ],
+      "Sasaram": [
+        { "value": "site_5485", "label": "Dada Peer, Sasaram - BSPCB" }
+      ],
+      "Motihari": [
+        { "value": "site_5478", "label": "Gandak Colony, Motihari - BSPCB" }
+      ],
+      "Gaya": [
+        { "value": "site_5548", "label": "Kareemganj, Gaya - BSPCB" },
+        { "value": "site_159", "label": "Collectorate, Gaya - BSPCB" },
+        { "value": "site_5338", "label": "SFTI Kusdihra, Gaya - BSPCB" }
+      ],
+      "Bhagalpur": [
+        {
+          "value": "site_5543",
+          "label": "DM Office_Kachari Chowk, Bhagalpur - BSPCB"
+        },
+        { "value": "site_5541", "label": "Mayaganj, Bhagalpur - BSPCB" }
+      ],
+      "Baddi": [
+        {
+          "value": "site_5586",
+          "label": "HIMUDA Complex Phase-1, Baddi - HPPCB"
+        }
+      ],
+      "Moradabad": [
+        { "value": "site_5555", "label": "Jigar Colony, Moradabad - UPPCB" },
+        { "value": "site_5613", "label": "Transport Nagar, Moradabad - UPPCB" },
+        { "value": "site_5620", "label": "Kashiram Nagar, Moradabad - UPPCB" },
+        {
+          "value": "site_5537",
+          "label": "Employment Office, Moradabad - UPPCB"
+        },
+        { "value": "site_5556", "label": "Eco Herbal Park, Moradabad - UPPCB" },
+        { "value": "site_5554", "label": "Buddhi Vihar, Moradabad - UPPCB" },
+        { "value": "site_1398", "label": "Lajpat Nagar, Moradabad - UPPCB" }
+      ],
+      "Ariyalur": [
+        { "value": "site_5606", "label": "Keelapalur, Ariyalur - TNPCB" }
+      ],
+      "Bhilai": [
+        {
+          "value": "site_5536",
+          "label": "Civic Center, Bhilai - Bhilai Steel Plant"
+        },
+        { "value": "site_5660", "label": "32Bungalows, Bhilai - CECB" },
+        { "value": "site_5659", "label": "Hathkhoj, Bhilai - CECB" }
+      ],
+      "Kalaburagi": [
+        {
+          "value": "site_1565",
+          "label": "Lal Bahadur Shastri Nagar, Kalaburagi - KSPCB"
+        },
+        {
+          "value": "site_5679",
+          "label": "Mahatma Basaveswar Colony, Kalaburgi - KSPCB"
+        }
+      ],
+      "Faridabad": [
+        { "value": "site_5341", "label": "Sector 30, Faridabad - HSPCB" },
+        { "value": "site_263", "label": "Sector- 16A, Faridabad - HSPCB" },
+        { "value": "site_5342", "label": "Sector 11, Faridabad - HSPCB" },
+        {
+          "value": "site_5340",
+          "label": "New Industrial Town, Faridabad - HSPCB"
+        }
+      ],
+      "Prayagraj": [
+        {
+          "value": "site_5459",
+          "label": "Motilal Nehru NIT, Prayagraj - UPPCB"
+        },
+        { "value": "site_5461", "label": "Jhunsi, Prayagraj - UPPCB" },
+        { "value": "site_5484", "label": "Nagar Nigam, Prayagraj - UPPCB" }
+      ],
+      "Ahmedabad": [
+        { "value": "site_5454", "label": "SAC ISRO Bopal, Ahmedabad - IITM" },
+        { "value": "site_308", "label": "Maninagar, Ahmedabad - GPCB" },
+        {
+          "value": "site_5455",
+          "label": "SAC ISRO Satellite, Ahmedabad - IITM"
+        },
+        { "value": "site_5450", "label": "Gyaspur, Ahmedabad - IITM" },
+        {
+          "value": "site_5456",
+          "label": "SVPI Airport Hansol, Ahmedabad - IITM"
+        },
+        { "value": "site_5451", "label": "Rakhial, Ahmedabad - IITM" },
+        {
+          "value": "site_5449",
+          "label": "Sardar Vallabhbhai Patel Stadium, Ahmedabad - IITM"
+        },
+        { "value": "site_5453", "label": "Chandkheda, Ahmedabad - IITM" },
+        { "value": "site_5452", "label": "Raikhad, Ahmedabad - IITM" }
+      ],
+      "Madikeri": [
+        { "value": "site_5391", "label": "Stuart Hill, Madikeri - KSPCB" }
+      ],
+      "Pune": [
+        {
+          "value": "site_5409",
+          "label": "Revenue Colony-Shivajinagar, Pune - IITM"
+        },
+        { "value": "site_5404", "label": "Mhada Colony, Pune - IITM" },
+        { "value": "site_5405", "label": "Alandi, Pune - IITM" },
+        { "value": "site_5406", "label": "Bhosari, Pune - IITM" },
+        { "value": "site_5766", "label": "Katraj Dairy, Pune - MPCB" },
+        { "value": "site_5410", "label": "MIT-Kothrud, Pune - IITM" },
+        { "value": "site_5408", "label": "Transport Nagar-Nigdi, Pune - IITM" },
+        { "value": "site_5407", "label": "Hadapsar, Pune - IITM" },
+        { "value": "site_292", "label": "Karve Road, Pune - MPCB" },
+        {
+          "value": "site_5767",
+          "label": "Savitribai Phule Pune University, Pune - MPCB"
+        }
+      ],
+      "Chennai": [
+        { "value": "site_5365", "label": "Kodungaiyur, Chennai - TNPCB" },
+        {
+          "value": "site_5618",
+          "label": "Gandhi Nagar_Ennore, Chennai - TNPCB"
+        },
+        { "value": "site_288", "label": "Velachery Res. Area, Chennai - CPCB" },
+        { "value": "site_5361", "label": "Arumbakkam, Chennai - TNPCB" },
+        { "value": "site_5364", "label": "Royapuram, Chennai - TNPCB" },
+        { "value": "site_293", "label": "Alandur Bus Depot, Chennai - CPCB" },
+        { "value": "site_306", "label": "Manali, Chennai - CPCB" },
+        { "value": "site_5092", "label": "Manali Village, Chennai - TNPCB" },
+        { "value": "site_5363", "label": "Perungudi, Chennai - TNPCB" }
+      ],
+      "Kanpur": [
+        { "value": "site_5416", "label": "IITK, Kanpur - IITK" },
+        { "value": "site_5500", "label": "FTI Kidwai Nagar, Kanpur - UPPCB" },
+        { "value": "site_5474", "label": "NSI Kalyanpur, Kanpur - UPPCB" },
+        { "value": "site_276", "label": "Nehru Nagar, Kanpur - UPPCB" }
+      ],
+      "Firozabad": [
+        { "value": "site_5480", "label": "Nagla Bhau, Firozabad - UPPCB" },
+        { "value": "site_5584", "label": "Vibhab Nagar, Firozabad - UPPCB" }
+      ],
+      "Kota": [
+        { "value": "site_1394", "label": "Shrinath Puram, Kota - RSPCB" },
+        { "value": "site_5707", "label": "Dhanmandi, Kota - RSPCB" },
+        { "value": "site_5701", "label": "Nayapura, Kota - RSPCB" }
+      ],
+      "Kollam": [
+        { "value": "site_5334", "label": "Polayathode, Kollam - Kerala PCB" }
+      ],
+      "Kozhikode": [
+        { "value": "site_5271", "label": "Palayam, Kozhikode - Kerala PCB" }
+      ],
+      "Sagar": [
+        { "value": "site_5269", "label": "Deen Dayal Nagar, Sagar - MPPCB" },
+        { "value": "site_5662", "label": "Civil Lines, Sagar - MPPCB" }
+      ],
+      "Mandikhera": [
+        {
+          "value": "site_5055",
+          "label": "General Hospital, Mandikhera - HSPCB"
+        }
+      ],
+      "Kalyan": [
+        { "value": "site_5118", "label": "Khadakpada, Kalyan - MPCB" }
+      ],
+      "Mysuru": [
+        { "value": "site_5125", "label": "Hebbal 1st Stage, Mysuru - KSPCB" }
+      ],
+      "Vatva": [
+        { "value": "site_5067", "label": "Phase-4 GIDC, Vatva - GPCB" }
+      ],
+      "Panipat": [
+        { "value": "site_5048", "label": "Sector-18, Panipat - HSPCB" }
+      ],
+      "Kurukshetra ": [
+        { "value": "site_5043", "label": "Sector-7, Kurukshetra - HSPCB" }
+      ],
+      "Guwahati": [
+        { "value": "site_5651", "label": "IITG, Guwahati - PCBA" },
+        { "value": "site_5417", "label": "Pan Bazaar, Guwahati - PCBA" },
+        { "value": "site_5683", "label": "LGBI Airport, Guwahati - PCBA" },
+        { "value": "site_5073", "label": "Railway Colony, Guwahati - PCBA" }
+      ],
+      "Puducherry": [
+        { "value": "site_5423", "label": "Jawahar Nagar, Puducherry - PPCC" }
+      ],
+      "Korba": [
+        { "value": "site_5656", "label": "Rampur, Korba - CECB" },
+        { "value": "site_5657", "label": "Urja Nagar, Korba - CECB" }
+      ],
+      "Amritsar": [
+        { "value": "site_256", "label": "Golden Temple, Amritsar - PPCB" }
+      ],
+      "Jalandhar": [
+        { "value": "site_1438", "label": "Civil Line, Jalandhar - PPCB" }
+      ],
+      "Bagalkot": [
+        { "value": "site_5264", "label": "Vidayagiri, Bagalkot - KSPCB" }
+      ],
+      "Kannur": [
+        { "value": "site_5276", "label": "Thavakkara, Kannur - Kerala PCB" }
+      ],
+      "Aizawl": [
+        { "value": "site_5346", "label": "Sikulpuikawn, Aizawl - Mizoram PCB" }
+      ],
+      "Ramanathapuram": [
+        {
+          "value": "site_5625",
+          "label": "Chalai Bazaar, Ramanathapuram - TNPCB"
+        }
+      ],
+      "Durgapur": [
+        {
+          "value": "site_299",
+          "label": "Sidhu Kanhu Indoor Stadium, Durgapur - WBPCB"
+        }
+      ],
+      "Anantapur": [
+        { "value": "site_5632", "label": "Gulzarpet, Anantapur - APPCB" }
+      ],
+      "Bareilly": [
+        { "value": "site_5601", "label": "Rajendra Nagar, Bareilly - UPPCB" },
+        { "value": "site_5628", "label": "Civil Lines, Bareilly - UPPCB" }
+      ],
+      "Nalbari": [
+        { "value": "site_5668", "label": "Bata Chowk, Nalbari - PCBA" }
+      ],
+      "Baripada": [
+        { "value": "site_5670", "label": "Meher Colony, Baripada - OSPCB" }
+      ],
+      "Rourkela": [
+        { "value": "site_5675", "label": "Raghunathpali, Rourkela - OSPCB" },
+        {
+          "value": "site_5687",
+          "label": "Fertilizer Township, Rourkela - OSPCB"
+        },
+        { "value": "site_5688", "label": "Sector-2, Rourkela - OSPCB" }
+      ],
+      "Jodhpur": [
+        { "value": "site_136", "label": "Collectorate, Jodhpur - RSPCB" },
+        {
+          "value": "site_5694",
+          "label": "Samrat Ashok Udhyan, Jodhpur - RSPCB"
+        },
+        { "value": "site_5726", "label": "Digari Kalan, Jodhpur - RSPCB" },
+        { "value": "site_5773", "label": "Mandor, Jodhpur - RSPCB" },
+        { "value": "site_5720", "label": "Jhalamand, Jodhpur - RSPCB" }
+      ],
+      "Satna": [
+        {
+          "value": "site_1433",
+          "label": "Bandhavgar Colony, Satna - Birla Cement"
+        }
+      ],
+      "Kolkata": [
+        { "value": "site_5238", "label": "Ballygunge, Kolkata - WBPCB" },
+        { "value": "site_5126", "label": "Rabindra Sarobar, Kolkata - WBPCB" },
+        { "value": "site_5110", "label": "Fort William, Kolkata - WBPCB" },
+        { "value": "site_309", "label": "Victoria, Kolkata - WBPCB" },
+        {
+          "value": "site_296",
+          "label": "Rabindra Bharati University, Kolkata - WBPCB"
+        },
+        { "value": "site_5129", "label": "Bidhannagar, Kolkata - WBPCB" },
+        { "value": "site_5111", "label": "Jadavpur, Kolkata - WBPCB" }
+      ],
+      "Charkhi Dadri": [
+        {
+          "value": "site_5339",
+          "label": "Mini Secretariat, Charkhi Dadri - HSPCB"
+        }
+      ],
+      "Tumakuru": [
+        { "value": "site_5682", "label": "Thimmalapura, Tumakuru - KSPCB" }
+      ],
+      "Churu": [
+        { "value": "site_5699", "label": "Subash Chowk, Churu - RSPCB" }
+      ],
+      "Tonk": [
+        { "value": "site_5702", "label": "Shastri Nagar, Tonk - RSPCB" }
+      ],
+      "Barmer": [
+        { "value": "site_5714", "label": "Railway Colony, Barmer - RSPCB" }
+      ],
+      "Sri Ganganagar": [
+        { "value": "site_5719", "label": "Old City, Sri Ganganagar - RSPCB" }
+      ],
+      "Pratapgarh": [
+        { "value": "site_5721", "label": "Pragati Nagar, Pratapgarh - RSPCB" }
+      ],
+      "Kolhapur": [
+        { "value": "site_5769", "label": "Sinchan Bhavan, Kolhapur - MPCB" },
+        { "value": "site_5768", "label": "Shivaji University, Kolhapur - MPCB" }
+      ],
+      "Bundi": [{ "value": "site_5771", "label": "New Colony, Bundi - RSPCB" }],
+      "Pimpri-Chinchwad": [
+        {
+          "value": "site_5764",
+          "label": "Park Street Wakad, Pimpri Chinchwad - MPCB"
+        },
+        { "value": "site_5765", "label": "Thergaon, Pimpri Chinchwad - MPCB" },
+        {
+          "value": "site_5763",
+          "label": "Gavalinagar, Pimpri Chinchwad - MPCB"
+        }
+      ],
+      "Siliguri": [
+        { "value": "site_1419", "label": "Ward-32 Bapupara, Siliguri - WBPCB" }
+      ],
+      "Howrah": [
+        { "value": "site_5101", "label": "Belur Math, Howrah - WBPCB" },
+        { "value": "site_1416", "label": "Padmapukur, Howrah - WBPCB" },
+        { "value": "site_274", "label": "Ghusuri, Howrah - WBPCB" }
+      ],
+      "Mahad": [
+        { "value": "site_5783", "label": "Kamble Tarf Birwadi, Mahad - MPCB" }
+      ],
+      "Jalgaon": [
+        { "value": "site_5790", "label": "Prabhat Colony, Jalgaon - MPCB" }
+      ],
+      "Nanded": [
+        { "value": "site_5795", "label": "Sneh Nagar, Nanded - MPCB" }
+      ],
+      "Navi Mumbai": [
+        { "value": "site_5803", "label": "Tondare-Taloja, Navi Mumbai - MPCB" },
+        { "value": "site_5815", "label": "Sanpada, Navi Mumbai - MPCB" },
+        { "value": "site_5114", "label": "Mahape, Navi Mumbai - MPCB" },
+        {
+          "value": "site_5401",
+          "label": "Sector-19A Nerul, Navi Mumbai - IITM"
+        },
+        { "value": "site_5103", "label": "Nerul, Navi Mumbai - MPCB" },
+        {
+          "value": "site_5805",
+          "label": "Kopripada-Vashi, Navi Mumbai - MPCB"
+        },
+        {
+          "value": "site_5799",
+          "label": "Sector-2E Kalamboli, Navi Mumbai - MPCB"
+        },
+        { "value": "site_261", "label": "Airoli, Navi Mumbai - MPCB" }
+      ],
+      "Virar": [{ "value": "site_5808", "label": "Bolinj, Virar - MPCB" }],
+      "Dhanbad": [
+        { "value": "site_5827", "label": "Kalakusuma, Dhanbad - DMC" },
+        { "value": "site_5710", "label": "Sardar Patel Nagar, Dhanbad - JSPCB" }
+      ],
+      "Manguraha": [
+        {
+          "value": "site_5550",
+          "label": "Forest Rest House, Manguraha - BSPCB"
+        }
+      ],
+      "Agartala": [
+        { "value": "site_5377", "label": "Kunjaban, Agartala - Tripura SPCB" },
+        { "value": "site_5587", "label": "Bardowali, Agartala - Tripura SPCB" }
+      ],
+      "Shillong": [
+        {
+          "value": "site_5593",
+          "label": "JN Stadium, Shillong - Meghalaya PCB"
+        },
+        {
+          "value": "site_5131",
+          "label": "Lumpyngngad, Shillong - Meghalaya PCB"
+        }
+      ],
+      "Karwar": [
+        { "value": "site_5853", "label": "KHB Colony, Karwar - KSPCB" }
+      ],
+      "Rajamahendravaram": [
+        {
+          "value": "site_1399",
+          "label": "Anand Kala Kshetram, Rajamahendravaram - APPCB"
+        }
+      ],
+      "Byasanagar": [
+        {
+          "value": "site_5942",
+          "label": "Ferro Chrome Colony, Byasanagar - OSPCB"
+        }
+      ],
+      "Barrackpore": [
+        { "value": "site_5959", "label": "SVSPA Campus, Barrackpore - WBPCB" }
+      ],
+      "Agra": [
+        { "value": "site_307", "label": "Sanjay Palace, Agra - UPPCB" },
+        { "value": "site_5501", "label": "Shahjahan Garden, Agra - UPPCB" },
+        { "value": "site_5463", "label": "Shastripuram, Agra - UPPCB" },
+        { "value": "site_5482", "label": "Rohta, Agra - UPPCB" },
+        {
+          "value": "site_5465",
+          "label": "Sector-3B Avas Vikas Colony, Agra - UPPCB"
+        },
+        { "value": "site_5464", "label": "Manoharpur, Agra - UPPCB" }
+      ],
+      "Greater Noida": [
+        {
+          "value": "site_1541",
+          "label": "Knowledge Park - III, Greater Noida - UPPCB"
+        },
+        {
+          "value": "site_5121",
+          "label": "Knowledge Park - V, Greater Noida - UPPCB"
+        }
+      ],
+      "Ghaziabad": [
+        { "value": "site_5081", "label": "Sanjay Nagar, Ghaziabad - UPPCB" },
+        { "value": "site_144", "label": "Vasundhara, Ghaziabad - UPPCB" },
+        { "value": "site_5082", "label": "Indirapuram, Ghaziabad - UPPCB" },
+        { "value": "site_5083", "label": "Loni, Ghaziabad - UPPCB" }
+      ],
+      "Meerut": [
+        {
+          "value": "site_5257",
+          "label": "Pallavpuram Phase 2, Meerut - UPPCB"
+        },
+        { "value": "site_5258", "label": "Ganga Nagar, Meerut - UPPCB" },
+        { "value": "site_5109", "label": "Jai Bhim Nagar, Meerut - UPPCB" }
+      ],
+      "Dharuhera": [
+        {
+          "value": "site_5044",
+          "label": "Municipal Corporation Office, Dharuhera -  HSPCB"
+        }
+      ],
+      "Gurugram": [
+        { "value": "site_5025", "label": "NISE Gwal Pahari, Gurugram - IMD" },
+        { "value": "site_5345", "label": "Sector-51, Gurugram - HSPCB" },
+        { "value": "site_5344", "label": "Teri Gram, Gurugram - HSPCB" },
+        { "value": "site_146", "label": "Vikas Sadan, Gurugram - HSPCB" }
+      ],
+      "Nagpur": [
+        { "value": "site_303", "label": "Opp GPO Civil Lines, Nagpur - MPCB" },
+        { "value": "site_5796", "label": "Mahal, Nagpur - MPCB" },
+        { "value": "site_5792", "label": "Ambazari, Nagpur - MPCB" },
+        { "value": "site_5793", "label": "Ram Nagar, Nagpur - MPCB" }
+      ],
+      "Muzaffarpur": [
+        {
+          "value": "site_5479",
+          "label": "MIT-Daudpur Kothi, Muzaffarpur - BSPCB"
+        },
+        {
+          "value": "site_158",
+          "label": "Muzaffarpur Collectorate, Muzaffarpur - BSPCB"
+        },
+        { "value": "site_5370", "label": "Buddha Colony, Muzaffarpur - BSPCB" }
+      ],
+      "Bihar Sharif": [
+        { "value": "site_5481", "label": "D M Colony, Bihar Sharif - BSPCB" }
+      ],
+      "Purnia": [
+        { "value": "site_5549", "label": "Mariam Nagar, Purnia - BSPCB" }
+      ],
+      "Saharsa": [
+        { "value": "site_5551", "label": "Police Line, Saharsa - BSPCB" }
+      ],
+      "Chandigarh": [
+        { "value": "site_5582", "label": "Sector-53, Chandigarh - CPCC" },
+        { "value": "site_5127", "label": "Sector-25, Chandigarh - CPCC" },
+        { "value": "site_5491", "label": "Sector 22, Chandigarh - CPCC" }
+      ],
+      "Jind": [{ "value": "site_5056", "label": "Police Lines, Jind - HSPCB" }],
+      "Lucknow": [
+        {
+          "value": "site_5462",
+          "label": "Kukrail Picnic Spot-1, Lucknow - UPPCB"
+        },
+        { "value": "site_277", "label": "Lalbagh, Lucknow - CPCB" },
+        { "value": "site_272", "label": "Kendriya Vidyalaya, Lucknow - CPCB" },
+        {
+          "value": "site_5460",
+          "label": "B R Ambedkar University, Lucknow - UPPCB"
+        },
+        { "value": "site_1405", "label": "Nishant Ganj, Lucknow - UPPCB" },
+        {
+          "value": "site_297",
+          "label": "Talkatora District Industries Center, Lucknow - CPCB"
+        },
+        { "value": "site_5128", "label": "Gomti Nagar, Lucknow - UPPCB" }
+      ],
+      "Hassan": [
+        { "value": "site_5448", "label": "B.Katihalli, Hassan - KSPCB" }
+      ],
+      "Srinagar": [
+        { "value": "site_5424", "label": "Rajbagh, Srinagar - JKSPCB" }
+      ],
+      "Dehradun": [
+        { "value": "site_5594", "label": "Doon University, Dehradun - UKPCB" }
+      ],
+      "Karnal": [
+        { "value": "site_5049", "label": "Sector-12, Karnal - HSPCB" }
+      ],
+      "Brajrajnagar": [
+        { "value": "site_1410", "label": "GM Office, Brajrajnagar - OSPCB" }
+      ],
+      "Chikkamagaluru": [
+        {
+          "value": "site_5265",
+          "label": "Kalyana Nagara, Chikkamagaluru - KSPCB"
+        }
+      ],
+      "Pali": [
+        { "value": "site_1395", "label": "Indira Colony Vistar, Pali - RSPCB" }
+      ],
+      "Alwar": [
+        { "value": "site_1390", "label": "Moti Doongri, Alwar - RSPCB" }
+      ],
+      "Vijayawada": [
+        { "value": "site_257", "label": "PWD Grounds, Vijayawada - APPCB" },
+        { "value": "site_5848", "label": "HB Colony, Vijayawada - APPCB" },
+        { "value": "site_5685", "label": "Kanuru, Vijayawada - APPCB" },
+        {
+          "value": "site_5849",
+          "label": "Rajiv Gandhi Park, Vijayawada - APPCB"
+        }
+      ],
+      "Mandideep": [
+        {
+          "value": "site_1403",
+          "label": "Sector-D Industrial Area, Mandideep - MPPCB"
+        }
+      ],
+      "Talcher": [
+        { "value": "site_1408", "label": "Talcher Coalfields,Talcher - OSPCB" }
+      ],
+      "Raipur": [
+        { "value": "site_5652", "label": "AIIMS, Raipur - CECB" },
+        { "value": "site_5653", "label": "Siltara Phase-II, Raipur - CECB" },
+        { "value": "site_5655", "label": "Bhatagaon New ISBT, Raipur - CECB" },
+        { "value": "site_5654", "label": "Krishak Nagar, Raipur - CECB" }
+      ],
+      "Surat": [
+        { "value": "site_5664", "label": "Science Center, Surat - SMC" }
+      ],
+      "Kanchipuram": [
+        { "value": "site_5619", "label": "Kilambi, Kanchipuram - TNPCB" }
+      ],
+      "Tirupur": [
+        { "value": "site_5607", "label": "Kumaran College, Tirupur - TNPCB" }
+      ],
+      "Dharwad": [
+        { "value": "site_5638", "label": "Kalabhavan, Dharwad - KSPCB" }
+      ],
+      "Keonjhar": [
+        { "value": "site_5671", "label": "Jagamohanpur, Keonjhar - OSPCB" }
+      ],
+      "Suakati": [
+        { "value": "site_5676", "label": "OMC Colony, Suakati - OSPCB" }
+      ],
+      "Chandrapur": [
+        { "value": "site_295", "label": "MIDC Khutala, Chandrapur - MPCB" },
+        { "value": "site_271", "label": "Chauhan Colony, Chandrapur - MPCB" }
+      ],
+      "Byrnihat": [
+        {
+          "value": "site_5669",
+          "label": "Central Academy for SFS, Byrnihat - PCBA"
+        }
+      ],
+      "Kunjemura": [
+        { "value": "site_5690", "label": "OP Jindal School, Kunjemura - CECB" }
+      ],
+      "Bharatpur": [
+        { "value": "site_5695", "label": "Krishna Nagar, Bharatpur - RSPCB" }
+      ],
+      "Rishikesh": [
+        { "value": "site_5703", "label": "Shivaji Nagar, Rishikesh - UKPCB" }
+      ],
+      "Bhopal": [
+        { "value": "site_5708", "label": "Idgah Hills, Bhopal - MPPCB" },
+        { "value": "site_5247", "label": "T T Nagar, Bhopal - MPPCB" },
+        { "value": "site_5650", "label": "Paryavaran Parisar, Bhopal - MPPCB" }
+      ],
+      "Hanumangarh": [
+        { "value": "site_5715", "label": "Housing Board, Hanumangarh - RSPCB" }
+      ],
+      "Sikar": [
+        { "value": "site_5722", "label": "Radhakishan Pura, Sikar - RSPCB" }
+      ],
+      "Jaipur": [
+        { "value": "site_5727", "label": "Sector-2 Murlipura, Jaipur - RSPCB" },
+        { "value": "site_1396", "label": "Shastri Nagar, Jaipur - RSPCB" },
+        { "value": "site_5728", "label": "RIICO Sitapura, Jaipur - RSPCB" },
+        { "value": "site_1393", "label": "Adarsh Nagar, Jaipur - RSPCB" },
+        {
+          "value": "site_5725",
+          "label": "Mansarovar Sector-12, Jaipur - RSPCB"
+        },
+        {
+          "value": "site_134",
+          "label": "Police Commissionerate, Jaipur - RSPCB"
+        }
+      ],
+      "Patna": [
+        {
+          "value": "site_5335",
+          "label": "Govt. High School Shikarpur, Patna - BSPCB"
+        },
+        { "value": "site_5261", "label": "Muradpur, Patna - BSPCB" },
+        { "value": "site_5336", "label": "DRM Office Danapur, Patna - BSPCB" },
+        {
+          "value": "site_157",
+          "label": "IGSC Planetarium Complex, Patna - BSPCB"
+        },
+        { "value": "site_5263", "label": "Samanpura, Patna - BSPCB" },
+        { "value": "site_5262", "label": "Rajbansi Nagar, Patna - BSPCB" }
+      ],
+      "Jaisalmer": [
+        { "value": "site_5772", "label": "Sadar Bazar, Jaisalmer - RSPCB" }
+      ],
+      "Akola": [{ "value": "site_5784", "label": "Ramdaspeth, Akola - MPCB" }],
+      "Jalna": [{ "value": "site_5791", "label": "Old MIDC, Jalna - MPCB" }],
+      "Belapur": [
+        { "value": "site_5804", "label": "CBD Belapur, Belapur - MPCB" }
+      ],
+      "Boisar": [{ "value": "site_5809", "label": "Khaira, Boisar - MPCB" }],
+      "Jabalpur": [
+        { "value": "site_5816", "label": "Suhagi, Jabalpur - JMC" },
+        { "value": "site_5817", "label": "Gupteshwar, Jabalpur - JMC" },
+        { "value": "site_5249", "label": "Marhatal, Jabalpur - MPPCB" },
+        {
+          "value": "site_5965",
+          "label": "Govindh Bhavan Colony, Jabalpur - JMC"
+        }
+      ],
+      "Cuddalore": [
+        { "value": "site_5621", "label": "Kudikadu, Cuddalore - TNPCB" },
+        { "value": "site_5611", "label": "Semmandalam, Cuddalore - TNPCB" }
+      ],
+      "Coimbatore": [
+        { "value": "site_5094", "label": "SIDCO Kurichi, Coimbatore - TNPCB" },
+        {
+          "value": "site_5623",
+          "label": "PSG College of Arts and Science, Coimbatore - TNPCB"
+        }
+      ],
+      "Ernakulam": [
+        { "value": "site_5272", "label": "Kacheripady, Ernakulam - Kerala PCB" }
+      ],
+      "Sirsa": [{ "value": "site_5051", "label": "F-Block, Sirsa - HSPCB" }],
+      "Thiruvananthapuram": [
+        {
+          "value": "site_252",
+          "label": "Plammoodu, Thiruvananthapuram - Kerala PCB"
+        },
+        {
+          "value": "site_5331",
+          "label": "Kariavattom, Thiruvananthapuram - Kerala PCB"
+        }
+      ],
+      "Maihar": [
+        { "value": "site_5068", "label": "Sahilara, Maihar - KJS Cements" }
+      ],
+      "Palkalaiperur": [
+        {
+          "value": "site_5626",
+          "label": "Bharathidasan University, Palkalaiperur - TNPCB"
+        }
+      ],
+      "Bhubaneswar": [
+        { "value": "site_5943", "label": "Patia, Bhubaneswar - OSPCB" },
+        { "value": "site_5940", "label": "Lingraj Mandir, Bhubaneswar - OSPCB" }
+      ],
+      "Bulandshahr": [
+        { "value": "site_1542", "label": "Yamunapuram, Bulandshahr - UPPCB" }
+      ],
+      "Virudhunagar": [
+        {
+          "value": "site_5979",
+          "label": "Collectorate Office, Virudhunagar - TNPCB"
+        }
+      ],
+      "Indore": [
+        { "value": "site_5854", "label": "Residency Area, Indore - IMC" },
+        {
+          "value": "site_5709",
+          "label": "Vijay Nagar Scheme-78, Indore - Glenmark"
+        },
+        { "value": "site_5855", "label": "Regional Park, Indore - IMC" },
+        { "value": "site_5248", "label": "Chhoti Gwaltoli, Indore - MPPCB" },
+        { "value": "site_5856", "label": "Maguda Nagar, Indore - IMC" }
+      ],
+      "Yadgir": [
+        { "value": "site_5254", "label": "Collector Office, Yadgir - KSPCB" }
+      ],
+      "Gwalior": [
+        { "value": "site_5273", "label": "City Center, Gwalior - MPPCB" },
+        {
+          "value": "site_5275",
+          "label": "Phool Bagh, Gwalior - Mondelez Ind. Food"
+        },
+        { "value": "site_5667", "label": "Deen Dayal Nagar, Gwalior - MPPCB" },
+        { "value": "site_5661", "label": "Maharaj Bada, Gwalior - MPPCB" }
+      ],
+      "Thoothukudi": [
+        { "value": "site_5367", "label": "Meelavittan, Thoothukudi - TNPCB" }
+      ],
+      "Gummidipoondi": [
+        {
+          "value": "site_5362",
+          "label": "Anthoni Pillai Nagar, Gummidipoondi - TNPCB"
+        }
+      ],
+      "Bidar": [{ "value": "site_5418", "label": "Naubad, Bidar - KSPCB" }],
+      "Haveri": [
+        { "value": "site_5420", "label": "Ashwini Nagar, Haveri - KSPCB" }
+      ],
+      "Bahadurgarh": [
+        { "value": "site_5045", "label": "Arya Nagar, Bahadurgarh - HSPCB" }
+      ],
+      "Tirupati": [
+        { "value": "site_258", "label": "Tirumala, Tirupati - APPCB" },
+        { "value": "site_5666", "label": "Vaikuntapuram, Tirupati - APPCB" }
+      ],
+      "Ambala": [
+        { "value": "site_5052", "label": "Patti Mehar, Ambala - HSPCB" }
+      ],
+      "Gangtok": [
+        { "value": "site_5590", "label": "Zero Point GICI, Gangtok - SSPCB" }
+      ],
+      "Arrah": [
+        { "value": "site_5538", "label": "New DM Office, Arrah - BSPCB" }
+      ],
+      "Chhapra": [
+        { "value": "site_5545", "label": "Darshan Nagar, Chhapra - BSPCB" }
+      ],
+      "Samastipur": [
+        {
+          "value": "site_5552",
+          "label": "DM Office_Kasipur, Samastipur - BSPCB"
+        }
+      ],
+      "Jhansi": [
+        { "value": "site_5583", "label": "Shivaji Nagar, Jhansi - UPPCB" }
+      ],
+      "Vapi": [{ "value": "site_5071", "label": "Phase-1 GIDC, Vapi - GPCB" }],
+      "Dewas": [
+        { "value": "site_1404", "label": "Bhopal Chauraha, Dewas - MPPCB" }
+      ],
+      "Hisar": [
+        { "value": "site_5057", "label": "Urban Estate-II, Hisar - HSPCB" }
+      ],
+      "Damoh": [
+        { "value": "site_5040", "label": "Shrivastav Colony, Damoh - MPPCB" }
+      ],
+      "Nashik": [
+        { "value": "site_304", "label": "Gangapur Road, Nashik - MPCB" },
+        { "value": "site_5782", "label": "Hirawadi, Nashik - MPCB" },
+        { "value": "site_5779", "label": "Pandav Nagari, Nashik - MPCB" },
+        { "value": "site_5781", "label": "MIDC Ambad, Nashik - MPCB" }
+      ],
+      "Shivamogga": [
+        { "value": "site_5266", "label": "Vinoba Nagara, Shivamogga - KSPCB" }
+      ],
+      "Ludhiana": [
+        {
+          "value": "site_253",
+          "label": "Punjab Agricultural University, Ludhiana - PPCB"
+        }
+      ],
+      "Belgaum": [
+        { "value": "site_5432", "label": "Ramteerth Nagar, Belgaum - KSPCB" }
+      ],
+      "Hubballi": [
+        { "value": "site_1447", "label": "Deshpande Nagar, Hubballi - KSPCB" },
+        { "value": "site_5680", "label": "Lingaraj Nagar, Hubballi - KSPCB" }
+      ],
+      "Salem": [
+        {
+          "value": "site_5622",
+          "label": "Sona College of Technology, Salem - TNPCB"
+        }
+      ],
+      "Vellore": [
+        { "value": "site_5615", "label": "Vasanthapuram, Vellore - TNPCB" }
+      ],
+      "Chittoor": [
+        { "value": "site_5665", "label": "Gangineni Cheruvu, Chittoor - APPCB" }
+      ],
+      "Rairangpur": [
+        {
+          "value": "site_5672",
+          "label": "Divisional Forest Office, Rairangpur - OSPCB"
+        }
+      ],
+      "Visakhapatnam": [
+        {
+          "value": "site_260",
+          "label": "GVM Corporation, Visakhapatnam - APPCB"
+        }
+      ],
+      "Bhiwadi": [
+        {
+          "value": "site_1391",
+          "label": "RIICO Ind. Area III, Bhiwadi - RSPCB"
+        }
+      ],
+      "Tensa": [
+        {
+          "value": "site_5677",
+          "label": "Barsua Iron Ore Mines, Tensa - OSPCB"
+        }
+      ],
+      "Silchar": [{ "value": "site_5684", "label": "Tarapur, Silchar - PCBA" }],
+      "Milupara": [
+        {
+          "value": "site_5691",
+          "label": "Govt. Higher Secondary School, Milupara - CECB"
+        }
+      ],
+      "Bikaner": [
+        { "value": "site_5696", "label": "MM Ground, Bikaner - RSPCB" }
+      ],
+      "Kashipur": [
+        {
+          "value": "site_5704",
+          "label": "Govt. Girls Inter College, Kashipur - UKPCB"
+        }
+      ],
+      "Banswara": [
+        { "value": "site_5711", "label": "Rati Talai, Banswara - RSPCB" }
+      ],
+      "Sawai Madhopur": [
+        { "value": "site_5716", "label": "Sahu Nagar, Sawai Madhopur - RSPCB" }
+      ],
+      "Karauli": [
+        { "value": "site_5723", "label": "Satyawati Vihar, Karauli - RSPCB" }
+      ],
+      "Sivasagar": [
+        { "value": "site_5658", "label": "Girls College, Sivasagar - PCBA" }
+      ],
+      "Nagaur": [
+        { "value": "site_5778", "label": "Karni Colony, Nagaur - RSPCB" }
+      ],
+      "Latur": [{ "value": "site_5780", "label": "Sawe Wadi, Latur - MPCB" }],
+      "Ahmednagar": [
+        { "value": "site_5785", "label": "Tarakpur, Ahmednagar - MPCB" }
+      ],
+      "Thane": [
+        { "value": "site_5797", "label": "Kasarvadavali, Thane - MPCB" },
+        { "value": "site_5800", "label": "Upvan Fort, Thane - MPCB" },
+        { "value": "site_305", "label": "Pimpleshwar Mandir, Thane - MPCB" }
+      ],
+      "Ulhasnagar": [
+        {
+          "value": "site_5812",
+          "label": "Sidhi Vinayak Nagar, Ulhasnagar - MPCB"
+        }
+      ],
+      "Dindigul": [
+        { "value": "site_5608", "label": "Mendonsa Colony, Dindigul - TNPCB" }
+      ],
+      "Dungarpur": [
+        { "value": "site_5850", "label": "Bhoiwada, Dungarpur - RSPCB" }
+      ],
+      "Varanasi": [
+        { "value": "site_5475", "label": "Maldahiya, Varanasi - UPPCB" },
+        {
+          "value": "site_5468",
+          "label": "IESD Banaras Hindu University, Varanasi - UPPCB"
+        },
+        { "value": "site_5469", "label": "Bhelupur, Varanasi - UPPCB" },
+        { "value": "site_273", "label": "Ardhali Bazar, Varanasi - UPPCB" }
+      ],
+      "Chhal": [
+        { "value": "site_5689", "label": "Nawapara SECL Colony, Chhal - CECB" }
+      ],
+      "Balasore": [
+        { "value": "site_5937", "label": "Kalidaspur, Balasore - OSPCB" }
+      ],
+      "Muzaffarnagar": [
+        { "value": "site_1550", "label": "New Mandi, Muzaffarnagar - UPPCB" }
+      ],
+      "Noida": [
+        { "value": "site_5122", "label": "Sector-116, Noida - UPPCB" },
+        { "value": "site_111", "label": "Sector - 62, Noida - IMD" },
+        { "value": "site_153", "label": "Sector - 125, Noida - UPPCB" },
+        { "value": "site_5123", "label": "Sector-1, Noida - UPPCB" }
+      ],
+      "Begusarai": [
+        { "value": "site_5540", "label": "DRCC Anandpur, Begusarai - BSPCB" }
+      ],
+      "Khurja": [
+        { "value": "site_5603", "label": "Kalindi Kunj, Khurja - UPPCB" }
+      ],
+      "Rohtak": [
+        { "value": "site_147", "label": "MD University, Rohtak - HSPCB" }
+      ],
+      "Amaravati": [
+        { "value": "site_1406", "label": "Secretariat, Amaravati - APPCB" }
+      ],
+      "Kishanganj": [
+        {
+          "value": "site_5547",
+          "label": "SDM Office_Khagra, Kishanganj - BSPCB"
+        }
+      ],
+      "Rajgir": [
+        { "value": "site_5489", "label": "Dangi Tola, Rajgir - BSPCB" }
+      ],
+      "Mandi Gobindgarh": [
+        {
+          "value": "site_255",
+          "label": "RIMT University, Mandi Gobindgarh - PPCB"
+        }
+      ],
+      "Eloor": [
+        { "value": "site_5105", "label": "Udyogamandal, Eloor - Kerala PCB" }
+      ],
+      "Gandhinagar": [
+        { "value": "site_5066", "label": "Sector-10, Gandhinagar - GPCB" },
+        { "value": "site_5458", "label": "GIFT City, Gandhinagar - IITM" },
+        { "value": "site_5457", "label": "IIPHG Lekawada, Gandhinagar - IITM" }
+      ],
+      "Patiala": [
+        { "value": "site_1437", "label": "Model Town, Patiala - PPCB" }
+      ],
+      "Chamarajanagar": [
+        { "value": "site_5124", "label": "Urban, Chamarajanagar - KSPCB" }
+      ],
+      "Kochi": [
+        { "value": "site_5270", "label": "Vyttila, Kochi - Kerala PCB" }
+      ],
+      "Ratlam": [
+        { "value": "site_5042", "label": "Shasthri Nagar, Ratlam - IPCA Lab" }
+      ],
+      "Bhiwani": [
+        { "value": "site_5047", "label": "H.B. Colony, Bhiwani - HSPCB" }
+      ],
+      "Davanagere": [
+        {
+          "value": "site_5422",
+          "label": "Devaraj Urs Badavane, Davanagere - KSPCB"
+        }
+      ],
+      "Koppal": [
+        { "value": "site_5415", "label": "Diwator Nagar, Koppal - KSPCB" }
+      ],
+      "Thrissur": [
+        {
+          "value": "site_5390",
+          "label": "Corporation Ground, Thrissur - Kerala PCB"
+        }
+      ],
+      "Gorakhpur": [
+        {
+          "value": "site_5472",
+          "label": "Madan Mohan Malaviya University of Technology, Gorakhpur - UPPCB"
+        }
+      ],
+      "Singrauli": [
+        {
+          "value": "site_1401",
+          "label": "Suryakiran Bhawan NCL, Singrauli - MPPCB"
+        }
+      ],
+      "Chikkaballapur": [
+        {
+          "value": "site_1557",
+          "label": "Chikkaballapur Rural, Chikkaballapur - KSPCB"
+        }
+      ],
+      "Rupnagar": [
+        {
+          "value": "site_1538",
+          "label": "Ratanpura, Rupnagar - Ambuja Cements"
+        }
+      ],
+      "Naharlagun": [
+        { "value": "site_5446", "label": "Naharlagun, Naharlagun - APSPCB" }
+      ],
+      "Fatehabad": [
+        { "value": "site_5054", "label": "Huda Sector, Fatehabad - HSPCB" }
+      ],
+      "Chengalpattu": [
+        {
+          "value": "site_5605",
+          "label": "Crescent University, Chengalpattu - TNPCB"
+        }
+      ],
+      "Ooty": [
+        { "value": "site_5624", "label": "Bombay Castel, Ooty - TNPCB" }
+      ],
+      "Nayagarh": [
+        { "value": "site_5674", "label": "Dabuna, Nayagarh - OSPCB" }
+      ],
+      "Panchkula": [
+        { "value": "site_161", "label": "Sector-6, Panchkula - HSPCB " }
+      ],
+      "Kadapa": [
+        { "value": "site_5693", "label": "Yerramukkapalli, Kadapa - APPCB" }
+      ],
+      "Baghpat": [
+        { "value": "site_1569", "label": "New Collectorate, Baghpat - UPPCB" },
+        {
+          "value": "site_5585",
+          "label": "Sardar Patel Inter College, Baghpat - UPPCB"
+        }
+      ],
+      "Nagaon": [
+        { "value": "site_5706", "label": "Christianpatty, Nagaon - PCBA" }
+      ],
+      "Dausa": [
+        { "value": "site_5713", "label": "Khatikan Mohalla, Dausa - RSPCB" }
+      ],
+      "Rajsamand": [
+        { "value": "site_5718", "label": "Dhoinda, Rajsamand - RSPCB" }
+      ],
+      "Bhilwara": [
+        { "value": "site_5770", "label": "Pratap Nagar, Bhilwara - RSPCB" }
+      ],
+      "Baran": [{ "value": "site_5775", "label": "Bamboliya, Baran - RSPCB" }],
+      "Amravati": [
+        {
+          "value": "site_5787",
+          "label": "Shri Shivaji Science College, Amaravati - MPCB"
+        },
+        { "value": "site_5786", "label": "Shivneri Colony, Amravati - MPCB" }
+      ],
+      "Parbhani": [
+        { "value": "site_5794", "label": "Masoom Colony, Parbhani - MPCB" }
+      ],
+      "Malegaon": [
+        { "value": "site_5802", "label": "Mahesh Nagar, Malegaon - MPCB" }
+      ],
+      "Asansol": [
+        { "value": "site_1418", "label": "Asansol Court Area, Asansol - WBPCB" }
+      ],
+      "Imphal": [
+        {
+          "value": "site_5592",
+          "label": "DM College of Science, Imphal - Manipur PCB"
+        },
+        {
+          "value": "site_5591",
+          "label": "Manipur University, Imphal - Manipur PCB"
+        }
+      ],
+      "Angul": [{ "value": "site_5939", "label": "Hakimapada, Angul - OSPCB" }],
+      "Cuttack": [
+        { "value": "site_5941", "label": "CDA Area, Cuttack - OSPCB" }
+      ],
+      "Hapur": [
+        { "value": "site_5023", "label": "Anand Vihar, Hapur - UPPCB" }
+      ],
+      "Buxar": [
+        { "value": "site_5542", "label": "Central Jail, Buxar - BSPCB" }
+      ],
+      "Darbhanga": [
+        {
+          "value": "site_5477",
+          "label": "Town Hall - Lal Bagh, Darbhanga - BSPCB"
+        }
+      ],
+      "Hosur": [
+        { "value": "site_5612", "label": "SIPCOT Phase-1, Hosur - TNPCB" }
+      ],
+      "Ankleshwar": [
+        { "value": "site_5065", "label": "GIDC, Ankleshwar - GPCB" }
+      ],
+      "Vijayapura": [
+        { "value": "site_5267", "label": "Ibrahimpur, Vijayapura - KSPCB" }
+      ],
+      "Ajmer": [
+        { "value": "site_1392", "label": "Civil Lines,  Ajmer - RSPCB" }
+      ],
+      "Udaipur": [
+        { "value": "site_1397", "label": "Ashok Nagar, Udaipur - RSPCB" }
+      ],
+      "Katni": [{ "value": "site_5250", "label": "Gole Bazar, Katni - MPPCB" }],
+      "Ramanagara": [
+        { "value": "site_5255", "label": "Vijay Nagar, Ramanagara - KSPCB" }
+      ],
+      "Kaithal": [
+        { "value": "site_5072", "label": "Rishi Nagar, Kaithal - HSPCB" }
+      ],
+      "Kohima": [
+        { "value": "site_5375", "label": "PWD Juction, Kohima - NPCB" }
+      ],
+      "Mangalore": [
+        { "value": "site_5421", "label": "Kadri, Mangalore - KSPCB" }
+      ],
+      "Raichur": [
+        { "value": "site_5414", "label": "Haji Colony, Raichur - KSPCB" }
+      ],
+      "Sonipat": [
+        { "value": "site_5041", "label": "Murthal, Sonipat - HSPCB" }
+      ],
+      "Udupi": [{ "value": "site_5433", "label": "Brahmagiri, Udupi - KSPCB" }],
+      "Gadag": [
+        { "value": "site_5419", "label": "Panchal Nagar, Gadag - KSPCB" }
+      ],
+      "Manesar": [
+        { "value": "site_5039", "label": "Sector-2 IMT, Manesar - HSPCB" }
+      ],
+      "Bettiah": [
+        { "value": "site_5476", "label": "Kamalnath Nagar, Bettiah - BSPCB" }
+      ],
+      "Vrindavan": [
+        { "value": "site_5483", "label": "Omex Eternity, Vrindavan - UPPCB" }
+      ],
+      "Bathinda": [
+        { "value": "site_1549", "label": "Hardev Nagar, Bathinda - PPCB" }
+      ],
+      "Narnaul": [
+        { "value": "site_5053", "label": "Shastri Nagar, Narnaul - HSPCB" }
+      ],
+      "Munger": [
+        { "value": "site_5490", "label": "Town Hall, Munger - BSPCB" }
+      ],
+      "Siwan": [
+        { "value": "site_5553", "label": "Chitragupta Nagar, Siwan - BSPCB" }
+      ],
+      "Katihar": [
+        { "value": "site_5546", "label": "Mirchaibari, Katihar - BSPCB" }
+      ],
+      "Khanna": [
+        { "value": "site_1450", "label": "Kalal Majra, Khanna - PPCB" }
+      ],
+      "Tiruchirappalli": [
+        {
+          "value": "site_5630",
+          "label": "St Joseph College, Tiruchirappalli - TNPCB"
+        }
+      ],
+      "Araria": [
+        { "value": "site_5539", "label": "Kharahiya Basti, Araria - BSPCB" }
+      ],
+      "Kolar": [
+        { "value": "site_1551", "label": "Tamaka Ind. Area, Kolar - KSPCB" }
+      ],
+      "Ballabgarh": [
+        { "value": "site_5060", "label": "Nathu Colony, Ballabgarh - HSPCB" }
+      ],
+      "Yamuna Nagar": [
+        { "value": "site_5046", "label": "Gobind Pura, Yamuna Nagar - HSPCB" }
+      ],
+      "Bilaspur": [
+        { "value": "site_5503", "label": "Mangala, Bilaspur - NTPC" }
+      ],
+      "Bileipada": [
+        { "value": "site_5673", "label": "Tata Township, Bileipada - OSPCB" }
+      ],
+      "Tumidih": [
+        {
+          "value": "site_5692",
+          "label": "OP Jindal Industrial Park, Tumidih - CECB"
+        }
+      ],
+      "Dholpur": [
+        { "value": "site_5700", "label": "Raja Ganj, Dholpur - RSPCB" }
+      ],
+      "Sirohi": [
+        { "value": "site_5705", "label": "Vedhaynath Colony, Sirohi - RSPCB" }
+      ],
+      "Chittorgarh": [
+        { "value": "site_5712", "label": "Shastri Nagar, Chittorgarh - RSPCB" }
+      ],
+      "Jhunjhunu": [
+        { "value": "site_5717", "label": "Indra Nagar, Jhunjhunu - RSPCB" }
+      ],
+      "Jhalawar": [
+        { "value": "site_5724", "label": "Rajlaxmi Nagar, Jhalawar - RSPCB" }
+      ],
+      "Hajipur": [
+        { "value": "site_5337", "label": "Industrial Area, Hajipur - BSPCB" }
+      ],
+      "Sangli": [
+        { "value": "site_5774", "label": "Vijay Nagar, Sangli - MPCB" }
+      ],
+      "Badlapur": [
+        { "value": "site_5798", "label": "Katrap, Badlapur - MPCB" }
+      ],
+      "Dhule": [{ "value": "site_5801", "label": "Deopur, Dhule - MPCB" }],
+      "Mira-Bhayandar": [
+        {
+          "value": "site_5806",
+          "label": "Bhayandar West, Mira-Bhayandar - MPCB"
+        }
+      ],
+      "Haldia": [
+        {
+          "value": "site_300",
+          "label": "Priyambada Housing Estate, Haldia - WBPCB"
+        }
+      ],
+      "Jalore": [
+        { "value": "site_5851", "label": "Mudtra Sili, Jalore - RSPCB" }
+      ],
+      "Ujjain": [
+        {
+          "value": "site_1400",
+          "label": "Mahakaleshwar Temple, Ujjain - MPPCB"
+        }
+      ],
+      "Barbil": [
+        { "value": "site_5938", "label": "Forest Office, Barbil - OSPCB" }
+      ],
+      "Nandesari": [
+        {
+          "value": "site_5274",
+          "label": "GIDC, Nandesari - Nandesari Ind. Association"
+        }
+      ],
+      "Bhiwandi": [
+        { "value": "site_5813", "label": "Gokul Nagar, Bhiwandi - MPCB" }
+      ],
+      "Jorapokhar": [
+        { "value": "site_254", "label": "Tata Stadium, Jorapokhar - JSPCB" }
+      ],
+      "Pathardih": [
+        { "value": "site_5832", "label": "Mohalbani Ghat, Pathardih - DMC" }
+      ]
+    }
+  }
+}

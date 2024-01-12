@@ -61,7 +61,7 @@ if (exists("data")) {
 
   # Generate a filename based on the current datetime
   filename <- paste0(
-    "data/data_gov_realtime_aqi_api_",
+    "data/api/data_gov_realtime_aqi_api_",
     format(
       Sys.time(),
       "%Y%m%d_%H%M%S"

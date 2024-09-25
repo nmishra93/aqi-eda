@@ -51,13 +51,13 @@ if (exists("data")) {
 
   # Convert the tibble to a data frame and unnest the nested columns
   data <- json_list$records |>
-    tibble::as_tibble() |>
-    tidyr::unnest(
-      cols = c(
-        country, state, city, station, last_update, latitude, longitude,
-        pollutant_id, pollutant_min, pollutant_max, pollutant_avg
-      )
-    )
+    tibble::as_tibble()
+    # tidyr::unnest(
+    #   cols = c(
+    #     country, state, city, station, last_update, latitude, longitude,
+    #     pollutant_id, pollutant_min, pollutant_max, pollutant_avg
+    #   )
+    # )
 
   # Generate a filename based on the current datetime
   filename <- paste0(
